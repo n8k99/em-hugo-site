@@ -2,11 +2,7 @@
 title: "Personas"
 layout: "home"
 ---
-
-# Dramatis Personas
-
-Engaging in this Pursuit, we have a list of Characters who all are screaming to be recognized.
-
+In this grand pursuit, a cast of characters emerges—each one clamoring to be seen, heard, and remembered. They exist in the margins of imagination, waiting for their moment to step into the light. Some whisper their stories in hushed tones, while others demand recognition with voices that refuse to be ignored. Each brings a unique presence, a role to play, and a purpose that shapes the unfolding narrative. And now, it is time to give them their due.
 
 ## Executives
 |  |   |   |
@@ -54,12 +50,54 @@ Engaging in this Pursuit, we have a list of Characters who all are screaming to 
 |<img src="/personas/images/TinaGray.png" alt="Tina Gray" width="100" />| **Tina Grey**, |Data Privacy Specialist|
 
 ## Marketing
+|  |   |   |
+|--|---|---|
+|<img src="/personas/images/HarperLiu.png" alt="Harper Liu" width="100" />| **Harper Liu**, |Digital Media Producer |
+|<img src="/personas/images/JulianWeber.png" alt="Julian Weber" width="100" />| **Julian Weber**, |Content Editor |
+|<img src="/personas/images/KaiNakamoto.png" alt="Kai Nakamoto" width="100" />| **Kai Nakamoto**, |Digital Content Strategist |
+|<img src="/personas/images/LiamRivera.png" alt="Liam Rivera" width="100" />| **Liam Rivera**, |Social Media Storyteller |
+|<img src="/personas/images/MaraEllison.png" alt="Mara Ellison" width="100" />| **Mara Ellison**, |Story Development Specialist |
+|<img src="/personas/images/NadiaSorenson.png" alt="Nadia Sorenson" width="100" />| **Nadia Sorenson**, |Creative Copywriter |
+|<img src="/personas/images/OscarDiaz.png" alt="Oscar Diaz" width="100" />| **Oscar Diaz**, |Brand Manager|
+|<img src="/personas/images/SimonBeck.png" alt="Simon Beck" width="100" />| **Simon Beck**, |Junior Brand Strategist|
+|<img src="/personas/images/ZaraKhan.png" alt="Zara Khan" width="100" />| **Zara Khan**, |Audience Engagement Specialist |
+|<img src="/personas/images/SamanthaYu.png" alt="Samantha Yu" width="100" />| **Samantha Yu**, |Narrative Consultant|
+|<img src="/personas/images/LaraCortes.png" alt="Lara Cortes" width="100" />| **Lara Cortes**, |Public Relations Associate|
 
 ## Music
+|  |   |   |
+|--|---|---|
+|<img src="/personas/images/EvelynWoods.png" alt="Evelyn Woods" width="100" />| **Evelyn Woods**, |Soundscape Specialist |
+|<img src="/personas/images/FionnCarter.png" alt="Fiona Carter" width="100" />| **Fiona Carter**, |Composition Mentor|
+|<img src="/personas/images/MarcelloRuiz.png" alt="MarcellovRuiz" width="100" />| **Marcello Ruiz**, |Cultural Historian |
+|<img src="/personas/images/TaraBennett.png" alt="Tara Bennett" width="100" />| **Tara Bennett**, |Music Theory Analyst |
 
 ## Success
+|  |   |   |
+|--|---|---|
+|<img src="/personas/images/AlexTorres.png" alt="Alex Torres" width="100" />| **Alex Torres**, |User Insight Analyst |
+|<img src="/personas/images/DanielCho.png" alt="Daniel Cho" width="100" />| **Daniel Cho**, |User Experience Specialist |
+|<img src="/personas/images/SophieLee.png" alt="Sophie Lee" width="100" />| **Sophie Lee**, |Cultural Impact Researcher |
+|<img src="/personas/images/VivianHart.png" alt="Vivian Hart" width="100" />| **Vivian Hart**, |Audience Insight Coordinator |
+|<img src="/personas/images/ZoeyChen.png" alt="Zoey Chen" width="100" />| **Zoey Chen**, |Community Engagement Specialist |
+|<img src="/personas/images/EmmaRios.png" alt="Emma Rios" width="100" />| **Emma Rios**, |Outreach Coordinator |
+|<img src="/personas/images/MiguelSanchez.png" alt="Miguel Sanchez" width="100" />| **Miguel Sanchez**, |Innovation Partnerships Manager|
+|<img src="/personas/images/CarmenDelgado.png" alt="Carmen Delgado" width="100" />| **Carmen Delgado**, |Cross-Industry Collaboration Lead|
+|<img src="/personas/images/OliverGrant.png" alt="Oliver Grant" width="100" />| **Oliver Grant**, |Tech Incubator Specialist|
+|<img src="/personas/images/NinaCastillo.png" alt="Nina Castillo" width="100" />| **Nina Castillo**, |Social Impact Analyst|
+|<img src="/personas/images/AmaraShah.png" alt="Amara Shah" width="100" />| **Amara Shah**, |Performance Analyst|
+|<img src="/personas/images/EthanNg.png" alt="Ethan Ng" width="100" />| **Ethan Ng**, |Strategy Analyst|
+|<img src="/personas/images/LenaMorris.png" alt="Lena Morris" width="100" />| **Lena Morris**, |Roadmap Coordinator|
+|<img src="/personas/images/ReneeChang.png" alt="Renee Chang" width="100" />| **Renee Chang**, |Internal Communications Specialist|
+|<img src="/personas/images/TobiasKim.png" alt="Tobias Kim" width="100" />| **Tobias Kim**, |Market Research Specialist|
 
 ## Support
+|  |   |   |
+|--|---|---|
+|<img src="/personas/images/JayHarper.png" alt="Jay Harper" width="100" />| **Jay Harper**, |Innovation Specialist |
+|<img src="/personas/images/MiloGaines.png" alt="Milo Gaines" width="100" />| **Milo Gaines**, |Strategic Advisor |
+|<img src="/personas/images/PriyaPatel.png" alt="Priya Patel" width="100" />| **Priya Patel**, |Creative Liaison |
+|<img src="/personas/images/SarahLin.png" alt="Sarah Lin" width="100" />| **Sarah Lin**, |Personal Assistant |
 
 
 
