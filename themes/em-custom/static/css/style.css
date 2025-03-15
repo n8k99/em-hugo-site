@@ -1,28 +1,45 @@
 /* General Layout */
+/* Book-style typography */
 body {
-    font-family: "Georgia", serif;
+    font-family: "Garamond", "Georgia", serif;
+    font-size: 18px;
+    line-height: 1.75;
+    background-color: #fdfaf6; /* Slightly warm, off-white like aged paper */
+    color: #333; /* Dark text for readability */
     max-width: 800px;
     margin: 0 auto;
-    line-height: 1.75;
     padding: 2rem;
-    background-color: #fdfaf6; /* Light, book-like background */
-    color: #333; /* Darker text for contrast */
 }
 
-/* Navigation Tabs */
+/* Headings - Make them feel more elegant */
+h1, h2, h3 {
+    font-family: "Baskerville", "Palatino Linotype", serif;
+    font-weight: normal;
+}
+
+/* Improve paragraph spacing */
+p {
+    text-align: justify;
+    text-indent: 1.5em;
+    margin-bottom: 1.2em;
+}
+
+/* Sidebar navigation */
 nav {
     position: fixed;
     left: 0;
-    top: 0;
-    height: 100vh;
-    width: 200px;
+    top: 50px;
+    width: 180px;
+    height: calc(100vh - 50px);
     background: #e0d9cc;
     padding: 20px;
-    box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.2);
+    font-family: "Garamond", serif;
+    font-size: 16px;
 }
 
 nav h3 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-bottom: 10px;
 }
 
@@ -32,17 +49,21 @@ nav ul {
 }
 
 nav ul li {
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 
 nav ul li a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
+    padding: 8px 12px;
+    display: block;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
 }
 
 nav ul li a:hover {
-    text-decoration: underline;
+    background: rgba(255, 255, 255, 0.9);
 }
 
 /* Content Layout */
