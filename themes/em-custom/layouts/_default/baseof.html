@@ -11,12 +11,12 @@
         <h3>EM Site</h3>
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/paleolithic/">Paleolithic</a></li>
-            <li><a href="/potential/">Potential</a></li>
-            <li><a href="/present/">Present</a></li>
-            <li><a href="/prologue/">Prologue</a></li>
+            {{ range .Site.Sections }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
         </ul>
     </nav>
+
     <main>
         <h1>{{ .Title }}</h1>
         <div>{{ .Content }}</div>
