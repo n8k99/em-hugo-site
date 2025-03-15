@@ -1,11 +1,9 @@
 ---
 title: "A New Era for Our Creative Hive"
-layout: "single"
+layout: "home"
 date: "2023-01-01"
 ---
 
-
-# A New Era for Our Creative Hive
 January 1, 2023
 ## Dear International Sound Experiments Team (and Visitors to Our Website),
 
