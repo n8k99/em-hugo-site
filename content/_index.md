@@ -3,6 +3,7 @@ title: "A New Era for Our Creative Hive"
 layout: "home"
 date: "2023-01-01"
 ---
+1 January, 2023
 ## Dear International Sound Experiments Team (and Visitors to Our Website),
 
 Today marks the dawn of a new chapter for our organization. I want to start by recognizing the hard work that many of you have contributed to get us to this point. The episodes we’ve released so far reflect moments of brilliance and creativity, and for that, I am grateful.

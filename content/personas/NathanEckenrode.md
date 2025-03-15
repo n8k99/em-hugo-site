@@ -1,11 +1,9 @@
----
 title: "Nathan Eckenrode"
-layout: "home"
-type: "section"
-cascade:
-  _build:
-    list: always
-    render: always
+layout: "single" # Change from "home" to "single" (or default)
+type: "page"     # Change from "section" to "page"
+_build:
+  list: never   # Prevent it from being treated as a list
+  render: always # Ensure it gets rendered
 ---
 ## About Me
 
