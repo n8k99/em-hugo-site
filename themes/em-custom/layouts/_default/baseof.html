@@ -11,7 +11,7 @@
         <h3>EM Site</h3>
         <ul>
             <li><a href="/">Home</a></li>
-            {{ range .Site.Sections }}
+            {{ range .Site.RegularPages }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
         </ul>
