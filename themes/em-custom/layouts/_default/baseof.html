@@ -1,1 +1,25 @@
-<link rel="stylesheet" href="/css/style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <nav>
+        <h3>EM Site</h3>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/paleolithic/">Paleolithic</a></li>
+            <li><a href="/potential/">Potential</a></li>
+            <li><a href="/present/">Present</a></li>
+            <li><a href="/prologue/">Prologue</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>{{ .Title }}</h1>
+        <div>{{ .Content }}</div>
+    </main>
+</body>
+</html>
