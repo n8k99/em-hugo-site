@@ -1,10 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-# theme = "hugo-book"
-<<<<<<< HEAD
-theme = "PaperMod"
-=======
-#theme = "PaperMod"
-# theme = "PaperMod"
->>>>>>> 1d0bba2 (Fully removed PaperMod submodule reference)
+theme = "em-custom"
