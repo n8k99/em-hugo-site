@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{ .Title }}</title>
+    <title>Prologue</title>
     <style>
         body { font-family: serif; margin: 0 auto; width: 50%; line-height: 1.6; }
         nav { background: #f4f4f4; padding: 10px; text-align: center; }
@@ -17,12 +17,11 @@
         <a href="/prologue/">Prologue</a>
     </nav>
     <main>
-        <h1>{{ .Title }}</h1>
-        <div>{{ .Content }}</div>  <!-- 🚀 This should now display `_index.md` content -->
+        <h1>Prologue</h1>
+        <div><p>Setting the stage—an introduction to the EM narrative.</p>
+</div>  
         <ul>
-            {{ range .Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            {{ end }}
+            
         </ul>
     </main>
 </body>

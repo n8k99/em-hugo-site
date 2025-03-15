@@ -3,9 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/</loc>
-    <priority>0</priority>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/paleolithic/</loc>
+  </url><url>
+    <loc>http://example.org/potential/</loc>
+  </url><url>
+    <loc>http://example.org/present/</loc>
+  </url><url>
+    <loc>http://example.org/prologue/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url>

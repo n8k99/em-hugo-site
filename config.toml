@@ -2,6 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "em-custom"
+contentDir = "content"
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

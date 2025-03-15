@@ -1,22 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-</head>
-<body>
-    <nav>
-        <h3>EM Site</h3>
-        <ul>
-            <li><a href="/">Home</a></li>
-        </ul>
-    </nav>
-    <main>
-        <h1>{{ .Title }}</h1>
-        <p><i>{{ .Date.Format "January 2, 2006" }}</i></p>
-        <div>{{ .Content }}</div>
-    </main>
-</body>
-</html>
+{{ define "main" }}
+<main>
+    <h1>{{ .Title }}</h1>
+    <p><i>{{ .Date.Format "January 2, 2006" }}</i></p>
+    <div>{{ .Content }}</div>
+</main>
+{{ end }}

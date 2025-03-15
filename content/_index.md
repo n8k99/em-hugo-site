@@ -3,8 +3,6 @@ title: "A New Era for Our Creative Hive"
 layout: "home"
 date: "2023-01-01"
 ---
-
-January 1, 2023
 ## Dear International Sound Experiments Team (and Visitors to Our Website),
 
 Today marks the dawn of a new chapter for our organization. I want to start by recognizing the hard work that many of you have contributed to get us to this point. The episodes we’ve released so far reflect moments of brilliance and creativity, and for that, I am grateful.
@@ -20,8 +18,13 @@ To the remaining core team, know that I expect a renewed commitment to excellenc
 The future is bright for Eckenrode Muziekopname, and I look forward to the journey ahead—with those who are ready to embrace this new era.
 
 Sincerely,
-Nathan Eckenrode
-Founder & CEO, Eckenrode Muziekopname
+
+**Nathan Eckenrode**
+
+Founder & CEO, 
+Eckenrode Muziekopname
 
 **Footnote**:
-_For those who have questions or need further clarification, please do not hesitate to reach out. (Note: The website’s “Contact Us” page is temporarily disabled due to high traffic.)__
+_For those who have questions or need further clarification, please do not hesitate to reach out. (Note: The website’s “Contact Us” page is temporarily disabled due to high traffic.)_
+
+**Else**: There might be some assistance on our [Discord Server](https://discord.gg/JYm2rMQC)
