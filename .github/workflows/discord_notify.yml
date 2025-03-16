@@ -1,0 +1,19 @@
+name: Discord Notification on Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify_discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Send Discord Notification
+        uses: Ilshidur/action-discord@master
+        with:
+          args: "${{ github.actor }} pushed a commit with message: ${{ github.event.head_commit.message }}"
+        env:
+          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1323011261436526762/Y3ZwLeKVYs3yoCYY_S6_bh-rrlJAzNILF2IVegDUCO3H-yddnd1A_6Meuk10lggw1Ed3
