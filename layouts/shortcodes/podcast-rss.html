@@ -1,0 +1,34 @@
+<script>
+async function loadPodcastFeed() {
+    const rssFeed = "https://feeds.captivate.fm/living-room-music/";
+    const response = await fetch(rssFeed);
+    const text = await response.text();
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+    const items = xml.querySelectorAll("item");
+
+    let html = "<b><h2>Latest Episodes</h2></b>";
+    for (let i = 0; i < Math.min(10, items.length); i++) {
+        let title = items[i].querySelector("title").textContent;
+        let link = items[i].querySelector("link").textContent;
+        let description = items[i].querySelector("description").textContent;
+        let image = items[i].querySelector("itunes\\:image, image")?.getAttribute("href") || "https://via.placeholder.com/150";
+
+        html += `
+            <div style="display: flex; align-items: center; margin-bottom: 20px;">
+                <img src="${image}" alt="${title}" width="150" style="margin-right: 15px; border-radius: 8px;">
+                <div>
+                    <h3><em><a href="${link}" target="_blank">${title}</a></em></h3>
+                    <p><em>${description.substring(0, 150)}...</em></p>
+                </div>
+            </div>
+        `;
+    }
+
+    document.getElementById("podcast-feed").innerHTML = html;
+}
+
+loadPodcastFeed();
+</script>
+
+<div id="podcast-feed">Loading latest episodes...</div>
