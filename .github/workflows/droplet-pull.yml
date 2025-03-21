@@ -1,0 +1,25 @@
+name: Deploy to Droplet
+
+on:
+  push:
+    branches:
+      - main # Change this to the branch you want to monitor (e.g., 'main', 'master')
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest # You can adjust this to use another environment if needed.
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up SSH
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.EM_HUGO_SITE }} # Make sure you store the private SSH key in GitHub secrets
+
+    - name: Pull latest changes to droplet
+      run: |
+        ssh -o StrictHostKeyChecking=no user@your-droplet-ip "cd /opt/stack/hugo && git pull origin main"
+      env:
+        SSH_AUTH_SOCK: ${{ secrets.SSH_AUTH_SOCK }}
