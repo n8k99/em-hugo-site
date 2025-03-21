@@ -3,7 +3,7 @@ title: "Episode 146 - Self Delusion"
 date: 3/14/2025
 category: "Present"
 ---
-<img src="https://artwork.captivate.fm/5c0e7b64-4b62-4db7-930d-2e9f496da450/yem4Wvuktu-pbACAYe2fymvZ.jpg" alt="Episode Cover Image" />
+<img src="https://artwork.captivate.fm/5c0e7b64-4b62-4db7-930d-2e9f496da450/yem4Wvuktu-pbACAYe2fymvZ.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/e32fe41f-63d4-4848-961d-d2f815299384/Episode-146.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
