@@ -20,6 +20,6 @@ jobs:
 
     - name: Pull latest changes to droplet
       run: |
-        ssh -o StrictHostKeyChecking=root@144.126.251.126 "cd /opt/stack/hugo && git pull origin main"
+        ssh -o StrictHostKeyChecking=no root@144.126.251.126 "cd /opt/stack/hugo && git pull origin main"
       env:
         SSH_AUTH_SOCK: ${{ secrets.SSH_AUTH_SOCK }}
