@@ -1,7 +1,7 @@
 ---
 title: "Episode 43: A Manifesto of Sorts"
 date: 12/16/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/c5cfc3d7-928f-4595-bf74-2266f18a48f4/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

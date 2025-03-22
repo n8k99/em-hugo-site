@@ -1,7 +1,7 @@
 ---
 title: "Episode 8: Trip Dub"
 date: 3/18/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/85d59471-31f6-41b8-9e2f-ac0e7d72b9fd/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

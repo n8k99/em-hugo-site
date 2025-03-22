@@ -1,7 +1,7 @@
 ---
 title: "Episode 18: The Fire Burns"
 date: 6/3/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/11636a98-fa9a-4726-b185-7b7cba56edb1/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

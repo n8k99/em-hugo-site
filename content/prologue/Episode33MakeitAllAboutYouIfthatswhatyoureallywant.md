@@ -1,7 +1,7 @@
 ---
 title: "Episode 33: Make it All About You (If that's what you really want)"
 date: 9/23/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/326cae5a-f3d3-462e-b6de-e3e0d6a7b382/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg" alt="Episode Cover Image" width=80%/>
 <audio controls>

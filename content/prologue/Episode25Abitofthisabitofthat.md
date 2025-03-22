@@ -1,7 +1,7 @@
 ---
 title: "Episode 25: A bit of this, a bit of that"
 date: 7/29/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/0dbdfd2e-7c2d-4f78-9e30-8ba8e92f31bb/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

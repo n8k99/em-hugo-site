@@ -1,7 +1,7 @@
 ---
 title: "Episode 26: Master those Changes"
 date: 8/5/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/2d5af858-3e31-4253-9594-f289bceb095c/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

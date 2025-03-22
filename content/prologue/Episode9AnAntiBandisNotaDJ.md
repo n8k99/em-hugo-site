@@ -1,7 +1,7 @@
 ---
 title: "Episode 9: An Anti-Band is Not a DJ"
 date: 3/25/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/a3b2fc23-99b2-4489-81ec-eceadad8e0ef/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

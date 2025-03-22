@@ -1,7 +1,7 @@
 ---
 title: "Episode 35: We're Just Doing This"
 date: 10/7/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/6b207d15-7f23-42c4-98f7-dc82368702b7/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

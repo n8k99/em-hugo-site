@@ -1,7 +1,7 @@
 ---
 title: "Episode 3: Let's Add some Vocals"
 date: 2/11/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/9085a4fc-090f-4687-a9a1-673b3f2ed8c2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

@@ -1,7 +1,7 @@
 ---
 title: "Episode 44: And Away We Go!"
 date: 12/23/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

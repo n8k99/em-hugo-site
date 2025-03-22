@@ -1,7 +1,7 @@
 ---
 title: "Episode 14: Continue the way"
 date: 4/29/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/1fc3a9d2-8ea8-4a2e-afab-6d058c92bd72/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

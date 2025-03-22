@@ -1,7 +1,7 @@
 ---
 title: "Episode 42: A New Direction"
 date: 12/9/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/c2ba2ca4-8a6d-47f1-bb35-70d8db38a453/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

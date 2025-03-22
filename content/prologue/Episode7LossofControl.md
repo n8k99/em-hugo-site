@@ -1,7 +1,7 @@
 ---
 title: "Episode 7: Loss of Control"
 date: 3/11/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/cbd4e501-bd28-4112-8635-9b58d527d493/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

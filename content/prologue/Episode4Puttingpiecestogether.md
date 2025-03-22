@@ -1,7 +1,7 @@
 ---
 title: "Episode 4: Putting pieces together"
 date: 2/18/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/8e2f983a-450d-4f2f-b1f3-de5456f78bc2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

@@ -1,7 +1,7 @@
 ---
 title: "Episode 27: Continuing this Vein"
 date: 8/12/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/3b9d1784-4abf-4285-967f-e7115c6ff1e4/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

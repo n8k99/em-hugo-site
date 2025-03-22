@@ -1,7 +1,7 @@
 ---
 title: "Episode 21: The Fly in the Ointment"
 date: 6/24/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/22e07fc6-2960-4348-9bb3-0a64a805ec8e/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

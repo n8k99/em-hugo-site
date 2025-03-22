@@ -1,7 +1,7 @@
 ---
 title: "Episode 24: Let's get it all out in the open"
 date: 7/15/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/1a2b617a-45aa-4279-9bbc-a740efc228c9/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

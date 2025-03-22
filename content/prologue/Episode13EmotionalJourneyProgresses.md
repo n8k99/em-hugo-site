@@ -1,7 +1,7 @@
 ---
 title: "Episode 13: Emotional Journey Progresses"
 date: 4/23/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/5e0159eb-4138-4da4-a69e-f85e53e2ae17/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

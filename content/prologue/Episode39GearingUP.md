@@ -1,7 +1,7 @@
 ---
 title: "Episode 39: Gearing UP"
 date: 11/4/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/945e1be9-0557-419b-a6d5-778762b35683/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

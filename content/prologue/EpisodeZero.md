@@ -1,7 +1,7 @@
 ---
 title: "Episode Zero"
 date: 1/21/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/2acee0ec-152f-4d5e-a2b3-023b97e7db6b/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

@@ -1,7 +1,7 @@
 ---
 title: "Episode 29: Let's Get Weird"
 date: 8/27/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/acb52f61-8e0d-44b0-bc7d-56e7ce78b63c/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

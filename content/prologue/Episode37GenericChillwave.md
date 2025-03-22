@@ -1,7 +1,7 @@
 ---
 title: "Episode 37: Generic Chillwave"
 date: 10/21/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/05c26e1d-7d9f-4627-bbf6-18f11394b583/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

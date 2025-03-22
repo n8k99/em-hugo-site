@@ -1,7 +1,7 @@
 ---
 title: "Episode 38: Generic Electro House"
 date: 10/28/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/c812e115-45a9-49e2-a2d0-f5160a209881/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>

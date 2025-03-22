@@ -1,7 +1,7 @@
 ---
 title: "Episode 31: DubCalculusStep & It's Derivatives"
 date: 9/9/2022
-category: "Present"
+category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/f1ad613f-0fd2-4d23-a696-4e274b5265d2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
