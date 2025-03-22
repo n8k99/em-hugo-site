@@ -1,0 +1,15 @@
+---
+title: "Episode 96:  Through the Veil of Discovery"
+date: 3/8/2024
+category: "Present"
+---
+<img src="https://artwork.captivate.fm/fac798b7-8861-46bf-afbd-de4832939b4b/3Fai1VfjMFemnMsEGcHy1XYo.jpg" alt="Episode Cover Image" width=80%/>
+<audio controls>
+  <source src="https://podcasts.captivate.fm/media/05a69db4-af87-45b0-aeb0-196b6725f2b6/Episode-96.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>In this compelling episode of "Living Room Music by N8K99," titled "Through the Veil of Discovery," we delve deep into the heart of Fear, an emotion as profound as it is complex. This journey of Self-Discovery is underscored by the ancient wisdom of ䷃ - Meng (Youthful Folly) from the I Ching, guiding us through the innocence and ignorance that mark the beginnings of a journey into the unknown. Set against the mystical canvas of the New Moon in the Pisces season, this episode is imbued with the vibrant yet introspective hues of Green, painting a picture of growth amidst the shadows of the unknown.</p><p>Tracks Key:</p><ul><li><a href="https://muziekopname.gumroad.com/l/gmegqc" rel="noopener noreferrer" target="_blank">Shadows at Dawn</a>: A haunting melody that encapsulates the first stirrings of fear and awareness as the light begins to pierce the darkness.</li><li><a href="https://muziekopname.gumroad.com/l/nmrfjf" rel="noopener noreferrer" target="_blank">Whispers in the Maze</a>: This track embodies the intricate journey of self-discovery, with each turn revealing deeper truths whispered in the shadows.</li><li><a href="https://muziekopname.gumroad.com/l/aqcfs" rel="noopener noreferrer" target="_blank">The Unheard Echoes</a>: A reflection on the voices within that go unnoticed, echoing the silent screams of our inner fears and doubts.</li><li><a href="https://muziekopname.gumroad.com/l/mjvff" rel="noopener noreferrer" target="_blank">Veiled Horizons</a>: Capturing the uncertain future that lies ahead, this piece mirrors the veiled possibilities that await beyond the horizon of our understanding.</li><li><a href="https://muziekopname.gumroad.com/l/prnjh" rel="noopener noreferrer" target="_blank">Reflect the Abyss</a>: A deep dive into the soul's darkest depths, urging us to confront the abyss and find the light within.</li><li><a href="https://muziekopname.gumroad.com/l/xewmbd" rel="noopener noreferrer" target="_blank">Mirror Lost</a>: The finale, a poignant reminder of the selves we lose and find again in the endless cycle of growth and discovery.</li></ul><br/><p>Join us on this enigmatic voyage through fear and self-awareness, where the verdant path of Pisces leads us through darkness to the dawn of understanding.</p>
+
+<a href="https://podcasts.apple.com/us/podcast/living-room-music/id1608791560?tscg=30200&itsct=podcast_box_appicon&ls=1&mttnsubad=1608791560" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/app-icon-podcasts/standard/en-us" alt="Apple Podcasts app icon" style="width: 100px; height: 100px; vertical-align: middle; object-fit: contain;" /></a>
+    
