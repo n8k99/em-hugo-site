@@ -1,0 +1,15 @@
+---
+title: "Collaborative Rhythms - Human Co+Lab"
+date: 2/14/2024
+category: "Present"
+---
+<img src="https://artwork.captivate.fm/ab9b3971-bbd7-41af-9662-12fa4725d073/BXcVXscY8BAggEOc1dziOmvD.jpg" alt="Episode Cover Image" width=80%/>
+<audio controls>
+  <source src="https://podcasts.captivate.fm/media/daf7d2b6-0037-45c2-a2ec-8bffad298e21/Episode-2.mp3?played_on=f64c4f97-8a92-430f-af0f-e94ccb45d504" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>The Fusion of Voices and Beats</p><p>In this captivating episode of "Human Co-Lab," we explore the seamless blend of diverse musical talents and the magic that unfolds when artists come together in the studio. Episode 2 welcomes a dynamic range of vocalists and instrumentalists, each bringing their unique flair to the mix, creating a rich tapestry of sounds and emotions.</p><p>Leading the episode is "Every Day," a track that features TaiLee333's compelling vocals set against a backdrop of a dark hip-hop beat. This emotive journey encapsulates the struggles and resilience faced in the daily grind, showcasing TaiLee333's ability to convey deep emotions through her powerful delivery.</p><p>Next, we dive into "Don't Deserve You," a mesmerizing combination of Ron's soulful singing and Brandon's sharp rhymes. This track navigates the complexities of relationships and self-worth, wrapped in a melody that's both haunting and uplifting.</p><p>"Adolation Isolation" shifts gears into a Trip Hop instrumental, crafted by the creative minds of Josh Wicki &amp; N8K99. This piece serves as a sonic exploration of solitude and introspection, inviting listeners to lose themselves in its intricate layers and beats.</p><p>Closing the episode is "Don't Put Love Above Me," where Brandon takes center stage with his serious flow. This track delves into the themes of love, priorities, and the self, challenging listeners to reflect on where they place their values in the spectrum of relationships.</p><p>Episode 2 of "Human Co-Lab" is not just a collection of tracks but a journey through the hearts and minds of its creators. With TaiLee333, Brandon, Ron, Josh Wicki, and N8K99 at the helm, this episode promises to be a memorable fusion of vocal prowess and instrumental genius, highlighting the beauty of collaboration in the creative process. Join us as we navigate this eclectic mix of sounds and stories, celebrating the artistry that comes to life when humans co-laborate.</p><p><a href="https://eckenrode-muziekopname.ghost.io/#/portal/signup/free" rel="noopener noreferrer" target="_blank">Website</a></p><p><a href="https://discord.gg/WKRyb995" rel="noopener noreferrer" target="_blank">Discord Server</a></p>
+
+<a href="https://podcasts.apple.com/us/podcast/living-room-music/id1608791560?tscg=30200&itsct=podcast_box_appicon&ls=1&mttnsubad=1608791560" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/app-icon-podcasts/standard/en-us" alt="Apple Podcasts app icon" style="width: 100px; height: 100px; vertical-align: middle; object-fit: contain;" /></a>
+    
