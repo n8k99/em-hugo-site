@@ -1,6 +1,6 @@
 ---
 title: "Episode 1: The Beginning"
-date: 1/28/2022
+date: 2022-01-28
 category: "Prologue"
 ---
 <img src="https://artwork.captivate.fm/c2b2d8d8-e8d4-4e46-ad9f-b1b04d5439ee/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
