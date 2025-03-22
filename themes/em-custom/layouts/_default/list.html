@@ -2,32 +2,33 @@
 <html>
 <head>
     <title>{{ .Title }}</title>
-    <style>
-        body { font-family: serif; margin: 0 auto; width: 50%; line-height: 1.6; }
-        nav { background: #f4f4f4; padding: 10px; text-align: center; }
-        nav a { margin: 0 15px; text-decoration: none; }
-    </style>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
     <nav>
         <img src="/EM%20LOGO.png" alt="EM Logo" width="25" />
-            <a href="/">Home</a>
-            <a href="/paleolithic/">Paleolithic</a>
-            <a href="/personas/">Personas</a>
-            <a href="/podcasts/">Podcasts</a>
-            <a href="/potential/">Potential</a>
-            <a href="/present/">Present</a>
-            <a href="/prologue/">Prologue</a>
-            <a href="/praxis/">Praxis</a>
+        <a href="/">Home</a>
+        <a href="/paleolithic/">Paleolithic</a>
+        <a href="/personas/">Personas</a>
+        <a href="/podcasts/">Podcasts</a>
+        <a href="/potential/">Potential</a>
+        <a href="/present/">Present</a>
+        <a href="/prologue/">Prologue</a>
+        <a href="/praxis/">Praxis</a>
     </nav>
     <main>
         <h1>{{ .Title }}</h1>
-        <div>{{ .Content }}</div>  <!-- 🚀 This should now display `_index.md` content -->
+        <div>{{ .Content }}</div>  <!-- This will display the content of _index.md if it exists -->
         <ul>
-            {{ range .Pages }}
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ range (.Paginator 30).Pages.ByDate.Reverse }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <p>{{ .Date.Format "January 2, 2006" }}</p>
+                <p>{{ .Summary }}</p> <!-- Optionally display a summary -->
+            </li>
             {{ end }}
         </ul>
     </main>
 </body>
 </html>
+

@@ -1,6 +1,6 @@
 ---
 title: "Present"
-layout: "home"
+layout: "list"
 type: "section"
 cascade:
   _build:
