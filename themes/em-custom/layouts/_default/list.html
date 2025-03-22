@@ -10,18 +10,22 @@
 </head>
 <body>
     <nav>
-        <a href="/">Home</a>
-        <a href="/paleolithic/">Paleolithic</a>
-        <a href="/potential/">Potential</a>
-        <a href="/present/">Present</a>
-        <a href="/prologue/">Prologue</a>
+        <img src="/EM%20LOGO.png" alt="EM Logo" width="25" />
+            <a href="/">Home</a>
+            <a href="/paleolithic/">Paleolithic</a>
+            <a href="/personas/">Personas</a>
+            <a href="/podcasts/">Podcasts</a>
+            <a href="/potential/">Potential</a>
+            <a href="/present/">Present</a>
+            <a href="/prologue/">Prologue</a>
+            <a href="/praxis/">Praxis</a>
     </nav>
     <main>
         <h1>{{ .Title }}</h1>
         <div>{{ .Content }}</div>  <!-- 🚀 This should now display `_index.md` content -->
         <ul>
             {{ range .Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ end }}
         </ul>
     </main>
