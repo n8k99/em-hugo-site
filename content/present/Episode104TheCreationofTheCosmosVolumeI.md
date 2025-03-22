@@ -1,8 +1,10 @@
 ---
-title: "Episode 104 - "The Creation of The Cosmos Volume I""
+title: "Episode 104 - 'The Creation of The Cosmos Volume I'"
 date: 5/10/2024
 category: "Present"
 ---
+
+
 <img src="https://artwork.captivate.fm/c8ecebf4-f61e-47a2-a163-91931c7b3c77/yGx0IbwvIfg4gK5raRNHMFXA.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/0a476ddd-67ac-4c75-bf9e-edbec6648311/The-Creation-of-The-Cosmos-Vol-I.mp3" type="audio/mpeg">
