@@ -18,17 +18,16 @@
     </nav>
     <main>
         <h1>{{ .Title }}</h1>
-        <div>{{ .Content }}</div>  <!-- This will display the content of _index.md if it exists -->
+        <div>{{ .Content }}</div>  <!-- Displays the content of _index.md if it exists -->
         <ul>
-            {{ range (.Paginator 30).Pages.ByDate.Reverse }}
+            {{ range .Pages.ByDate.Reverse }}
             <li>
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <p>{{ .Date.Format "January 2, 2006" }}</p>
-                <p>{{ .Summary }}</p> <!-- Optionally display a summary -->
+                <div>{{ .Content }}</div> <!-- Displays the full content of each page -->
             </li>
             {{ end }}
         </ul>
     </main>
 </body>
 </html>
-
