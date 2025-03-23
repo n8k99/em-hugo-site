@@ -3,7 +3,7 @@ title: "Episode 21: The Fly in the Ointment"
 date: 2022-06-24
 category: "Prologue"
 ---
-# 530~ ̶6̶ ̶~18♂
+## 530~ ̶6̶ ̶~18♂
 <img src="https://artwork.captivate.fm/22e07fc6-2960-4348-9bb3-0a64a805ec8e/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b610f443-b564-4626-bd2e-84e51ce8e21b/10850642-episode-21-the-fly-in-the-ointment.mp3" type="audio/mpeg">

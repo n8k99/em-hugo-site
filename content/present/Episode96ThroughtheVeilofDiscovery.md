@@ -3,7 +3,7 @@ title: "Episode 96:  Through the Veil of Discovery"
 date: 2024-03-08
 category: "Present"
 ---
-# 532~ ̶2̶ ̶~22☉
+## 532~ ̶2̶ ̶~22☉
 <img src="https://artwork.captivate.fm/fac798b7-8861-46bf-afbd-de4832939b4b/3Fai1VfjMFemnMsEGcHy1XYo.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/05a69db4-af87-45b0-aeb0-196b6725f2b6/Episode-96.mp3" type="audio/mpeg">

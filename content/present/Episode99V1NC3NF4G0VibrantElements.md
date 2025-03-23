@@ -3,7 +3,7 @@ title: "Episode 99 - V1NC3N+F4G0 - Vibrant Elements"
 date: 2024-03-29
 category: "Present"
 ---
-# 532~ ̶3̶ ̶~15☉
+## 532~ ̶3̶ ̶~15☉
 <img src="https://artwork.captivate.fm/87ec069b-8e97-4dcc-b28f-64564b866879/m-X9uDY15IUlaeCmSLCwVLcJ.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/05193c60-514f-4cfc-9f40-07a35731d130/Episode-99.mp3" type="audio/mpeg">

@@ -3,7 +3,7 @@ title: "Episode 142: Lore's Ember"
 date: 2025-02-15
 category: "Present"
 ---
-# 533~ ̶2̶ ̶~2☉
+## 533~ ̶2̶ ̶~2☉
 <img src="https://artwork.captivate.fm/c90cd136-bd97-4993-89ca-88e1adbaa390/R609l2pn2qTv8NvfOFO30U5_.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/0c5211ab-188d-4f65-ac3c-81778b4f3906/Lore-s-Ember-A-Dance-of-Discovery.mp3" type="audio/mpeg">

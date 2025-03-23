@@ -3,7 +3,7 @@ title: "Four Elements"
 date: 2024-07-26
 category: "Present"
 ---
-# 532~ ̶7̶ ̶~22☉
+## 532~ ̶7̶ ̶~22☉
 <img src="https://artwork.captivate.fm/15e9163c-6b8d-4db0-a0e4-a1a47f8f8888/E7x0ZgUZI8Rl_GVUGivP48my.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d516dec6-0435-41ed-9923-746f52afe27e/Episode-114.mp3" type="audio/mpeg">

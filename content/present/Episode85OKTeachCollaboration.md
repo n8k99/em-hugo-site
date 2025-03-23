@@ -3,7 +3,7 @@ title: "Episode 85: OKTeach Collaboration"
 date: 2023-12-15
 category: "Present"
 ---
-# 531~ ̶1̶2̶ ̶~24☽
+## 531~ ̶1̶2̶ ̶~24☽
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f90d95ff-9f5a-4b90-94d6-95bdd037a1e9/14152420-episode-85-okteach-collaboration.mp3" type="audio/mpeg">

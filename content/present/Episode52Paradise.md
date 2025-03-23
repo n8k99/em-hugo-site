@@ -3,7 +3,7 @@ title: "Episode 52: Paradise"
 date: 2023-02-17
 category: "Present"
 ---
-# 531~ ̶2̶ ̶~3☽
+## 531~ ̶2̶ ̶~3☽
 <img src="https://artwork.captivate.fm/1137e82e-9d44-4250-a556-4846fa0db11e/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/a1272bd3-5400-44f7-bfdc-1a10d293b6af/12253187-episode-52-paradise.mp3" type="audio/mpeg">

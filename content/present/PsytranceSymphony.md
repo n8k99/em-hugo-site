@@ -3,7 +3,7 @@ title: "Psytrance Symphony"
 date: 2024-08-23
 category: "Present"
 ---
-# 532~ ̶8̶ ̶~22☉
+## 532~ ̶8̶ ̶~22☉
 <img src="https://artwork.captivate.fm/728c9778-6755-416d-97d3-2bc385d922f3/HOe1jZiXUTzmQB8oe0YbAQn9.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f2c2c46b-2ffb-472c-a0f1-1f1e4da724c7/Episode-118.mp3" type="audio/mpeg">

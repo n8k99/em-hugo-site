@@ -3,7 +3,7 @@ title: "Episode 67: Epic Background Movement"
 date: 2023-06-17
 category: "Present"
 ---
-# 531~ ̶6̶ ̶~11♂
+## 531~ ̶6̶ ̶~11♂
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/1fdd95aa-7c44-4d37-a534-bfebaac8ccd8/13056375-episode-67-epic-background-movement.mp3" type="audio/mpeg">

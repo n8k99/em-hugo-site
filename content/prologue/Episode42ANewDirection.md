@@ -3,7 +3,7 @@ title: "Episode 42: A New Direction"
 date: 2022-12-09
 category: "Prologue"
 ---
-# 530~ ̶1̶2̶ ̶~18♂
+## 530~ ̶1̶2̶ ̶~18♂
 <img src="https://artwork.captivate.fm/c2ba2ca4-8a6d-47f1-bb35-70d8db38a453/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/77c49c61-981d-4971-8a45-ad05125034f9/11844508-episode-42-a-new-direction.mp3" type="audio/mpeg">

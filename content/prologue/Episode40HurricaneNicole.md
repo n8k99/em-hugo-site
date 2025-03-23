@@ -3,7 +3,7 @@ title: "Episode 40: Hurricane Nicole"
 date: 2022-11-11
 category: "Prologue"
 ---
-# 530~ ̶1̶1̶ ̶~18♂
+## 530~ ̶1̶1̶ ̶~18♂
 <img src="https://artwork.captivate.fm/d8726ce4-b8cd-4bbf-8ef5-972fde16035a/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/be77b8bf-db53-4456-ab89-09a291f6002f/11673518-episode-40-hurricane-nicole.mp3" type="audio/mpeg">

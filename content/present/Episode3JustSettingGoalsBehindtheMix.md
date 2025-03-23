@@ -3,7 +3,7 @@ title: "Episode 3: Just Setting Goals - Behind the Mix"
 date: 2024-06-02
 category: "Present"
 ---
-# 532~ ̶5̶ ̶~24♂
+## 532~ ̶5̶ ̶~24♂
 <img src="https://artwork.captivate.fm/c43b9f14-4c22-44e3-b12d-a7147317d7fc/1XQKre4jdbLhYqPqH7KHh_eM.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/8c47744b-08c0-4199-a65d-b7111faa988c/BTM-Episode-3.mp3?played_on=f64c4f97-8a92-430f-af0f-e94ccb45d504" type="audio/mpeg">

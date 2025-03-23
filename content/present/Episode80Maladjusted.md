@@ -3,7 +3,7 @@ title: "Episode 80: Maladjusted"
 date: 2023-09-15
 category: "Present"
 ---
-# 531~ ̶9̶ ̶~17☽
+## 531~ ̶9̶ ̶~17☽
 <img src="https://artwork.captivate.fm/d93ce40c-cac7-48a3-9b99-b927e1b0f237/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d0c27e42-c87e-45f3-bad4-2bc520958e53/13598373-episode-80-maladjusted.mp3" type="audio/mpeg">

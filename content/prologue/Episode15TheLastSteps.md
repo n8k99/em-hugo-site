@@ -3,7 +3,7 @@ title: "Episode 15: The Last Steps"
 date: 2022-05-07
 category: "Prologue"
 ---
-# 530~ ̶4̶ ̶~26☿
+## 530~ ̶4̶ ̶~26☿
 <img src="https://artwork.captivate.fm/53f4e3f7-2398-41a9-8a51-ee8722daf6cd/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b83da175-6dc0-4fc3-9bdd-49e7d9a3b7ad/10575595-episode-15-the-last-steps.mp3" type="audio/mpeg">

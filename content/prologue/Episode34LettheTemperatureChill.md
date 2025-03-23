@@ -3,7 +3,7 @@ title: "Episode 34: Let the Temperature Chill"
 date: 2022-09-30
 category: "Prologue"
 ---
-# 530~ ̶1̶0̶ ̶~4♂
+## 530~ ̶1̶0̶ ̶~4♂
 <img src="https://artwork.captivate.fm/d08320d7-f120-4c98-b50c-4ccc3e37a959/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f606b6b2-8846-475e-8ff9-c4058f985485/11415673-episode-34-let-the-temperature-chill.mp3" type="audio/mpeg">

@@ -3,7 +3,7 @@ title: "Scattered"
 date: 2024-09-13
 category: "Present"
 ---
-# 532~ ̶9̶ ̶~15☉
+## 532~ ̶9̶ ̶~15☉
 <img src="https://artwork.captivate.fm/7bd77acd-01cc-4d0a-868c-66751f1e2524/Y-o5UYpMe_04A9yvRsNb9GAG.jpeg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/e417ca86-1f1f-409e-a28a-cbcbba3f0357/Episode-121.mp3" type="audio/mpeg">

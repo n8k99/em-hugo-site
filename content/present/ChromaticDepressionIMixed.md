@@ -3,7 +3,7 @@ title: "Chromatic Depression I Mixed"
 date: 2024-10-24
 category: "Present"
 ---
-# 532~ ̶1̶0̶ ̶~28♄
+## 532~ ̶1̶0̶ ̶~28♄
 <img src="https://artwork.captivate.fm/0685a6ff-98db-45eb-8e55-111067e2af7c/1jn5I-Zapo-gpvQP1eJKl2vc.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d6c799fe-e403-470e-aea0-3ae81b49ac5c/Episode-127.mp3" type="audio/mpeg">

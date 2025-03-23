@@ -3,7 +3,7 @@ title: "Episode 60: Enter the Shadow"
 date: 2023-04-21
 category: "Present"
 ---
-# 531~ ̶4̶ ̶~10☽
+## 531~ ̶4̶ ̶~10☽
 <img src="https://artwork.captivate.fm/9898f9f1-d7e2-4e62-8930-d2db7e63916f/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/64fcd854-f1f8-47e6-885e-d169bd38cbb7/12696017-episode-60-enter-the-shadow.mp3" type="audio/mpeg">

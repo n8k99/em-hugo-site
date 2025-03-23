@@ -3,7 +3,7 @@ title: "Episode 119 - Strangeness Lurks"
 date: 2024-08-30
 category: "Present"
 ---
-# 532~ ̶9̶ ̶~1☉
+## 532~ ̶9̶ ̶~1☉
 <img src="https://artwork.captivate.fm/6535c02f-2734-46de-b5d1-ca26f40ada53/iRq7i3aw943tf2zIRyOvBlet.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b7e4543b-1570-4f20-aa90-d359c59d3013/Episode-119.mp3" type="audio/mpeg">

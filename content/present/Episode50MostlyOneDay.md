@@ -3,7 +3,7 @@ title: "Episode 50: Mostly One Day"
 date: 2023-01-27
 category: "Present"
 ---
-# 531~ ̶1̶ ̶~10☽
+## 531~ ̶1̶ ̶~10☽
 <img src="https://artwork.captivate.fm/4d830190-3a14-4eb2-803b-4a9e2c3ec380/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7ccfe1fe-1dc0-424e-b95e-5542e6456229/12133314-episode-50-mostly-one-day.mp3" type="audio/mpeg">

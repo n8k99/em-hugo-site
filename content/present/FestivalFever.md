@@ -3,7 +3,7 @@ title: "Festival Fever"
 date: 2024-12-05
 category: "Present"
 ---
-# 532~ ̶1̶2̶ ̶~14♄
+## 532~ ̶1̶2̶ ̶~14♄
 <img src="https://artwork.captivate.fm/2da793ad-6a37-4ce0-9daf-572342880207/xFCFpbQ2JRdyC_9KPZf65xym.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/1eb44ee7-e4ee-411f-8c85-b05f4e4d5376/Episode-132-converted.mp3" type="audio/mpeg">

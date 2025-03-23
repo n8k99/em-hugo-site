@@ -3,7 +3,7 @@ title: "Episode 41:The Mechanics of Pushing Buttons"
 date: 2022-11-18
 category: "Prologue"
 ---
-# 530~ ̶1̶1̶ ̶~25♂
+## 530~ ̶1̶1̶ ̶~25♂
 <img src="https://artwork.captivate.fm/aa853483-743e-448e-91fb-9c4a2dfb8f89/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/64581599-b9cb-44cf-b5ef-ee723f3afb3e/11722969-episode-41-the-mechanics-of-pushing-buttons.mp3" type="audio/mpeg">

@@ -3,7 +3,7 @@ title: "Rhythms and Revelations with CritPirate"
 date: 2024-04-19
 category: "Present"
 ---
-# 532~ ̶4̶ ̶~8☉
+## 532~ ̶4̶ ̶~8☉
 <img src="https://artwork.captivate.fm/2f2f3edc-9832-4361-8dc1-97318cadc948/YSyFcPIX1RkvnIH9S9FfDFBW.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/3bb90af0-fc5d-4c6c-94d3-7c404e045abb/Episode-102.mp3" type="audio/mpeg">

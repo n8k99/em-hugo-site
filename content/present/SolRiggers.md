@@ -3,7 +3,7 @@ title: "Sol Riggers"
 date: 2024-09-27
 category: "Present"
 ---
-# 532~ ̶1̶0̶ ̶~1☉
+## 532~ ̶1̶0̶ ̶~1☉
 <img src="https://artwork.captivate.fm/90887736-85bf-421b-9654-85a5b8a9f4ee/BR5ctEP7miKvxuWFomXYAEZm.jpeg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/c58e8a77-31f4-4ca1-a3df-39e66184daeb/Episode-123.mp3" type="audio/mpeg">

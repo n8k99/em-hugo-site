@@ -3,7 +3,7 @@ title: "Episode 43: A Manifesto of Sorts"
 date: 2022-12-16
 category: "Prologue"
 ---
-# 530~ ̶1̶2̶ ̶~25♂
+## 530~ ̶1̶2̶ ̶~25♂
 <img src="https://artwork.captivate.fm/c5cfc3d7-928f-4595-bf74-2266f18a48f4/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/0d5b842b-4998-4d75-8f59-748059d24f8d/11882487-episode-43-a-manifesto-of-sorts.mp3" type="audio/mpeg">

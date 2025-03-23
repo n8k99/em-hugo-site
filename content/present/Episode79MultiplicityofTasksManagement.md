@@ -3,7 +3,7 @@ title: "Episode 79: Multiplicity of Tasks Management"
 date: 2023-09-08
 category: "Present"
 ---
-# 531~ ̶9̶ ̶~10☽
+## 531~ ̶9̶ ̶~10☽
 <img src="https://artwork.captivate.fm/4c390107-dd7c-4124-902f-da877cfe7dff/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/088bb729-c0f6-4617-9ab3-0d101b834e86/13557060-episode-79-multiplicity-of-tasks-management.mp3" type="audio/mpeg">

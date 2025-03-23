@@ -3,7 +3,7 @@ title: "Episode 83: Chaso Love COLLAB EP"
 date: 2023-12-01
 category: "Present"
 ---
-# 531~ ̶1̶2̶ ̶~10☽
+## 531~ ̶1̶2̶ ̶~10☽
 <img src="https://artwork.captivate.fm/7c30d53d-7bb8-482e-8509-7a1403254f7b/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/cdb5ce10-a3c8-4eb4-bd34-f281ca8960f4/14016357-episode-83-chaso-love-collab-ep.mp3" type="audio/mpeg">

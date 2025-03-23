@@ -3,7 +3,7 @@ title: "Episode 98. S1L4S - Rebel Waves"
 date: 2024-03-20
 category: "Present"
 ---
-# 532~ ̶3̶ ̶~6♀
+## 532~ ̶3̶ ̶~6♀
 <img src="https://artwork.captivate.fm/946939ff-024c-4ab5-a432-d0ffd6a1de02/vtJtWf-UbjKDM0IPMHifWIAF.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/74b12c90-0ac7-4fd1-a82a-6e69e94bddca/Ep-98-converted.mp3" type="audio/mpeg">

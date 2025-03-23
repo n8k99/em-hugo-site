@@ -3,7 +3,7 @@ title: "Episode 111: Free flowing Cool Vibes"
 date: 2024-07-05
 category: "Present"
 ---
-# 532~ ̶7̶ ̶~1☉
+## 532~ ̶7̶ ̶~1☉
 <img src="https://artwork.captivate.fm/b3acbb68-198d-4680-b6ea-10c6f3c6ff51/98lTgDwR-XMSvOr6CLOl4hbs.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/aa0e535e-6086-4c34-80a2-91ab500896fa/Episode-111.mp3" type="audio/mpeg">

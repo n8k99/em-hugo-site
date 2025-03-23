@@ -3,7 +3,7 @@ title: "Episode 116 - Let's Play"
 date: 2024-08-02
 category: "Present"
 ---
-# 532~ ̶8̶ ̶~1☉
+## 532~ ̶8̶ ̶~1☉
 <img src="https://artwork.captivate.fm/138ccd78-8f9d-402e-9967-8731cbacb7ac/WCE-ky8H9N0Qz1sDBMq8kBM3.png" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/2aafb7f3-722e-447f-9b86-3adb210b4e74/Episode-116.mp3" type="audio/mpeg">

@@ -3,7 +3,7 @@ title: "Episode 5: The Beefpimps Chapter"
 date: 2022-02-25
 category: "Prologue"
 ---
-# 530~ ̶2̶ ̶~11♂
+## 530~ ̶2̶ ̶~11♂
 <img src="https://artwork.captivate.fm/f6c66552-fe24-4614-b971-e031536e8710/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/55e3e461-bb13-45bf-a612-8436bff92092/10140488-episode-5-the-beefpimps-chapter.mp3" type="audio/mpeg">

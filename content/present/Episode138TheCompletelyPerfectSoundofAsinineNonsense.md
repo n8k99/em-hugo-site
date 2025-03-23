@@ -3,7 +3,7 @@ title: "Episode 138: The Completely Perfect Sound of Asinine Nonsense"
 date: 2025-01-16
 category: "Present"
 ---
-# 532~ ̶1̶3̶ ̶~28♄
+## 532~ ̶1̶3̶ ̶~28♄
 <img src="https://artwork.captivate.fm/e38c576f-0848-46a4-a09b-307a0544c418/SlOmlsd71CpA75orzPQSPTHL.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/782c6f25-68b5-4d55-917d-f894d536ee8e/Episode-138.mp3" type="audio/mpeg">

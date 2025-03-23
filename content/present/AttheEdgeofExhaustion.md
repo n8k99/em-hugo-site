@@ -3,7 +3,7 @@ title: "At the Edge of Exhaustion"
 date: 2024-10-17
 category: "Present"
 ---
-# 532~ ̶1̶0̶ ̶~21♄
+## 532~ ̶1̶0̶ ̶~21♄
 <img src="https://artwork.captivate.fm/058a1f9f-3dfb-44f0-8a48-1b0c53c86a59/R9JgQFy6C8nIacSJjvN9NyFh.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/8e10cdf6-f052-4709-b798-8f69d4cc02d6/At-the-Edge-of-Exhaustion.mp3" type="audio/mpeg">

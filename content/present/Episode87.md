@@ -3,7 +3,7 @@ title: "Episode 87"
 date: 2024-01-05
 category: "Present"
 ---
-# 531~ ̶1̶3̶ ̶~17☽
+## 531~ ̶1̶3̶ ̶~17☽
 <img src="https://artwork.captivate.fm/eab2e430-f39b-4504-a4b8-6edd37f967ba/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/67f688fa-293c-4ca8-b436-05e800a31ba1/14248734-episode-87.mp3" type="audio/mpeg">

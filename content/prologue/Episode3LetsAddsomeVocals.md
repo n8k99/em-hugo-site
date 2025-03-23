@@ -3,7 +3,7 @@ title: "Episode 3: Let's Add some Vocals"
 date: 2022-02-11
 category: "Prologue"
 ---
-# 530~ ̶1̶ ̶~25 ♂
+## 530~ ̶1̶ ̶~25 ♂
 <img src="https://artwork.captivate.fm/9085a4fc-090f-4687-a9a1-673b3f2ed8c2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/8debbff0-382d-40f4-9cf8-c07f05468a26/10057169-episode-3-let-s-add-some-vocals.mp3" type="audio/mpeg">

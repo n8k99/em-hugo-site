@@ -3,7 +3,7 @@ title: "Episode 106: Sonic Sculptures"
 date: 2024-05-24
 category: "Present"
 ---
-# 532~ ̶5̶ ̶~15☉
+## 532~ ̶5̶ ̶~15☉
 <img src="https://artwork.captivate.fm/066f8a18-7fac-4c53-9faf-43e9386b72fc/gf5528mWVCE5TLtQfLvhyTDv.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7d320dc1-c9ee-4314-b938-23d64336c715/Episode-106.mp3" type="audio/mpeg">

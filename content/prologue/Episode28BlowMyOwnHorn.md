@@ -3,7 +3,7 @@ title: "Episode 28: Blow My Own Horn"
 date: 2022-08-19
 category: "Prologue"
 ---
-# 530~ ̶8̶ ̶~18♂
+## 530~ ̶8̶ ̶~18♂
 <img src="https://artwork.captivate.fm/1044e748-88b7-4c34-aa5a-6c46cd947d4e/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/508a754f-7aa4-4a4d-a029-1d2eb1ccb55b/11166896-episode-28-blow-my-own-horn.mp3" type="audio/mpeg">

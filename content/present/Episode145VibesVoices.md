@@ -3,7 +3,7 @@ title: "Episode 145: Vibes & Voices"
 date: 2025-03-07
 category: "Present"
 ---
-# 533~ ̶2̶ ̶~22♄
+## 533~ ̶2̶ ̶~22♄
 <img src="https://artwork.captivate.fm/0a436e65-fdc3-47e4-bb44-74139e868d4c/rDG3tW5t9iTCxLv_SoNUtqXx.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/6ce63ba1-1915-426a-beb8-cdd31dd4cc99/Episode-145.mp3" type="audio/mpeg">

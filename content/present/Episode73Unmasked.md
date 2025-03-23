@@ -3,7 +3,7 @@ title: "Episode 73: Unmasked"
 date: 2023-07-28
 category: "Present"
 ---
-# 531~ ̶7̶ ̶~24☽
+## 531~ ̶7̶ ̶~24☽
 <img src="https://artwork.captivate.fm/4cd83a3c-fbe0-474d-9041-87d6266d1fff/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/94f05193-fcdf-44ad-8f4c-769a848a1c77/13308415-episode-73-unmasked.mp3" type="audio/mpeg">

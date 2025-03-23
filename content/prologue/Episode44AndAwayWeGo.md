@@ -3,7 +3,7 @@ title: "Episode 44: And Away We Go!"
 date: 2022-12-23
 category: "Prologue"
 ---
-# 530~ ̶1̶3̶ ̶~4♂
+## 530~ ̶1̶3̶ ̶~4♂
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/8343e436-a971-47b7-8223-053a3b44b905/11924704-episode-44-and-away-we-go.mp3" type="audio/mpeg">

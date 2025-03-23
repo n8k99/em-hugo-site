@@ -3,7 +3,7 @@ title: "Episode 11: Improvising Four Parts"
 date: 2022-04-08
 category: "Prologue"
 ---
-# 530~ ̶3̶ ̶~25♂
+## 530~ ̶3̶ ̶~25♂
 <img src="https://artwork.captivate.fm/4a360b82-1f4e-4b30-a362-1bc2d6dc7d7a/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/05300d1c-751a-4640-9274-b39e0dffd3f1/10405602-episode-11-improvising-four-parts.mp3" type="audio/mpeg">

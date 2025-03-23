@@ -3,7 +3,7 @@ title: "Resurgence"
 date: 2024-06-21
 category: "Present"
 ---
-# 532~ ̶6̶ ̶~15☉
+## 532~ ̶6̶ ̶~15☉
 <img src="https://artwork.captivate.fm/6897461f-98d9-4e36-90cc-8d7a3b024bc2/31FMzP8zopUd8EQZFDMOs9FF.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/3e5cc49e-da7a-417f-8aea-92927e1fd81f/Episode-109.mp3" type="audio/mpeg">

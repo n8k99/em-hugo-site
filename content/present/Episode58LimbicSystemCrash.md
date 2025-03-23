@@ -3,7 +3,7 @@ title: "Episode 58: Limbic System Crash"
 date: 2023-04-07
 category: "Present"
 ---
-# 531~ ̶3̶ ̶~24☽
+## 531~ ̶3̶ ̶~24☽
 <img src="https://artwork.captivate.fm/5f0ff90c-b150-4c95-b13d-7fbae8d85840/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/74558091-e492-4cd5-b2de-925cc3cc4050/12609230-episode-58-limbic-system-crash.mp3" type="audio/mpeg">

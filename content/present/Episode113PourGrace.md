@@ -3,7 +3,7 @@ title: "Episode 113 - Pour Grace"
 date: 2024-07-19
 category: "Present"
 ---
-# 532~ ̶7̶ ̶~15☉
+## 532~ ̶7̶ ̶~15☉
 <img src="https://artwork.captivate.fm/ca5d3542-a448-42bb-9175-44b30a532183/gogNlVno9w510_MaAfxxjxkj.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/50e656bf-70c5-438e-a33d-c349855b0caf/Episode-113.mp3" type="audio/mpeg">

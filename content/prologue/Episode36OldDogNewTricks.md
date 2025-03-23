@@ -3,7 +3,7 @@ title: "Episode 36  Old Dog, New Tricks"
 date: 2022-10-14
 category: "Prologue"
 ---
-# 530~ ̶1̶0̶ ̶~18♂
+## 530~ ̶1̶0̶ ̶~18♂
 <img src="https://artwork.captivate.fm/c94a42d1-45d7-4cca-85a3-fca89e4b36d9/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/abf187b2-7324-4355-b2e3-da51be426099/11485490-episode-36-old-dog-new-tricks.mp3" type="audio/mpeg">

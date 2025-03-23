@@ -3,7 +3,7 @@ title: "Episode 139: Journeys in Sound"
 date: 2025-01-24
 category: "Present"
 ---
-# 533~ ̶1̶ ̶~8♄
+## 533~ ̶1̶ ̶~8♄
 <img src="https://artwork.captivate.fm/c8cd39cd-617d-4ea6-b413-09e87aa03702/RQSuH06RHXWzeoEY8JV7-u1z.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/abd70580-46f0-402b-ae97-59457d47a419/Episode-139.mp3" type="audio/mpeg">
