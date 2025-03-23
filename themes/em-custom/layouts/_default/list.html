@@ -27,7 +27,7 @@
         <ul>
             {{ range .Pages.ByDate.Reverse }}
             
-             # {{ .Title }}
+              <h1>{{ .Title }}</h1>
                 <p>{{ .Date.Format "January 2, 2006" }}</p>
                 <div>{{ .Content }}</div> <!-- Displays the full content of each page -->
             
