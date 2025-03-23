@@ -2,8 +2,10 @@
 title: "Episode 52: Paradise"
 date: 2023-02-17
 category: "Present"
+tags: ["Episode", "Paradise", "Trance", "Drum n Bass", "Music Production", "Podcast", "February 2023", "Senior Showcase", "Backstage", "Creative Process", "Flow States", "Rhythmic Alignment", "Organic Progression"]
 ---
 ## 531~ ̶2̶ ̶~3☽
+U xcmnuhn wuff ivmwolyx ch gyfixcw qupym
 <img src="https://artwork.captivate.fm/1137e82e-9d44-4250-a556-4846fa0db11e/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/a1272bd3-5400-44f7-bfdc-1a10d293b6af/12253187-episode-52-paradise.mp3" type="audio/mpeg">
@@ -14,3 +16,4 @@ category: "Present"
 
 <a href="https://podcasts.apple.com/us/podcast/living-room-music/id1608791560?tscg=30200&itsct=podcast_box_appicon&ls=1&mttnsubad=1608791560" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/app-icon-podcasts/standard/en-us" alt="Apple Podcasts app icon" style="width: 100px; height: 100px; vertical-align: middle; object-fit: contain;" /></a>
     
+**AI summary:** Episode 52 titled "Paradise" features a composition that unexpectedly blends Trance and Drum n Bass, evolving from initial House music intentions. The creator, Nathan Eckenrode, shares his experience of working backstage at his son's Senior Showcase, which influenced the music's direction. The episode reflects the creative journey and happy accidents in music production, culminating in a unique sound that merges different genres.

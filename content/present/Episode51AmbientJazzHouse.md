@@ -2,8 +2,10 @@
 title: "Episode 51: Ambient Jazz House"
 date: 2023-02-03
 category: "Present"
+tags: ["Ambient", "Jazz", "Electronic, Experimental", "Music Composition", "Time Signatures", "Key Changes", "Trumpet", "Podcast", "Episode", "February 2023", "Slack Discussion"]
 ---
 ## 531~ ̶1̶ ̶~17☽
+Qv bpm dwql, awcvla bzivanwzu qvbw amkzmba
 <img src="https://artwork.captivate.fm/f0b77ac0-a8af-4611-bef2-d24f0e43c360/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/a3c4f2c4-bba1-405a-a865-c2355366d492/12162956-episode-51-ambient-jazz-house.mp3" type="audio/mpeg">
@@ -14,3 +16,4 @@ category: "Present"
 
 <a href="https://podcasts.apple.com/us/podcast/living-room-music/id1608791560?tscg=30200&itsct=podcast_box_appicon&ls=1&mttnsubad=1608791560" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/app-icon-podcasts/standard/en-us" alt="Apple Podcasts app icon" style="width: 100px; height: 100px; vertical-align: middle; object-fit: contain;" /></a>
     
+**AI summary:** Episode 51 features an experimental composition blending ambient electronic music with jazz improvisation, incorporating time signature and key changes. The piece utilizes motifs that are repeated and adapted across different textures, with a solo trumpet enhanced by effects. Feedback from team members highlights the successful integration of jazz elements and the evolving drum patterns, making it suitable for relaxed listening environments. Overall, the episode is considered a broad success, showcasing a cohesive and sophisticated sound.

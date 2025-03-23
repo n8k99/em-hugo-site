@@ -2,8 +2,10 @@
 title: "Episode 50: Mostly One Day"
 date: 2023-01-27
 category: "Present"
+tags: ["Episode", "Mostly One Day", "Nathan Eckenrode", "Sarah Lin", "Podcast", "Band Rehearsal", "Creative Process", "January 2023", "Audio"]
 ---
 ## 531~ ̶1̶ ̶~10☽
+Hvs fvmhva wg o qwdvsf tcf hvs yssb cpgsfjsf
 <img src="https://artwork.captivate.fm/4d830190-3a14-4eb2-803b-4a9e2c3ec380/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7ccfe1fe-1dc0-424e-b95e-5542e6456229/12133314-episode-50-mostly-one-day.mp3" type="audio/mpeg">
@@ -14,3 +16,5 @@ category: "Present"
 
 <a href="https://podcasts.apple.com/us/podcast/living-room-music/id1608791560?tscg=30200&itsct=podcast_box_appicon&ls=1&mttnsubad=1608791560" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/app-icon-podcasts/standard/en-us" alt="Apple Podcasts app icon" style="width: 100px; height: 100px; vertical-align: middle; object-fit: contain;" /></a>
     
+**AI summary:** Episode 50 features a disjointed week in the studio as Nathan prepares for band rehearsals and reflects on the creative process. He communicates with Sarah about managing podcast responsibilities and expresses a desire for more collaboration in future episodes. The episode includes various topics and is set to be released on January 27, 2023.
+  
