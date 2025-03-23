@@ -1,8 +1,9 @@
 ---
 title: "Episode 97: The Uncharted Path"
-date: 3/15/2024
+date: 2024-03-15
 category: "Present"
 ---
+# 532~ ̶3̶ ̶~1☉
 <img src="https://artwork.captivate.fm/b1de08d0-93f4-4bc7-91a3-b850d68ae9a1/nrgg6EE-WIQYFtDmJhR1IIDB.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/c839bd8d-135c-444c-882a-1ce3b1b2719a/Episode-97.mp3" type="audio/mpeg">

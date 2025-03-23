@@ -1,8 +1,9 @@
 ---
 title: "Episode 75: Our Eyes Deceive Us When We Stare Too Long"
-date: 8/11/2023
+date: 2023-08-11
 category: "Present"
 ---
+# 531~ ̶8̶ ̶~10☽
 <img src="https://artwork.captivate.fm/7cb7aad0-018c-4e72-963e-56cc86b51641/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/078849e5-e278-42b5-a2fc-1cb0eb59c755/13386696-episode-75-our-eyes-deceive-us-when-we-stare-too-long.mp3" type="audio/mpeg">

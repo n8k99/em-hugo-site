@@ -1,8 +1,9 @@
 ---
 title: "Episode 107: Groove Nexus"
-date: 5/31/2024
+date: 2024-05-31
 category: "Present"
 ---
+# 532~ ̶5̶ ̶~22☉
 <img src="https://artwork.captivate.fm/a6d2028f-c986-4063-8c5f-4cfeee528071/vG8AOoZbip1wreABmZScggfz.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/9cc75e1a-9763-4492-820c-f57f43e8946a/Episode-107.mp3" type="audio/mpeg">

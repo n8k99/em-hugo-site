@@ -1,8 +1,9 @@
 ---
 title: "Episode 47: Illness"
-date: 1/13/2023
+date: 2023-01-13
 category: "Present"
 ---
+# 530~ ̶1̶3̶ ̶~25♂
 <img src="https://artwork.captivate.fm/320eccab-b02f-4257-93cd-07c3e7f409d3/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b302f787-3850-49e9-83c1-9ec64ed57d1d/12038054-episode-47-illness.mp3" type="audio/mpeg">

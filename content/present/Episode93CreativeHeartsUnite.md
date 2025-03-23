@@ -1,8 +1,9 @@
 ---
 title: "Episode 93: Creative Hearts Unite"
-date: 2/16/2024
+date: 2024-02-16
 category: "Present"
 ---
+# 532~ ̶2̶ ̶~1☉
 <img src="https://artwork.captivate.fm/718be81f-e1f1-4d35-b2ae-4d3657dba9e0/Ug3js8i-C5EppJYtBJiJ8LgK.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/cbb6b05b-91e7-450c-8211-298771d63f67/Episode-93.mp3" type="audio/mpeg">

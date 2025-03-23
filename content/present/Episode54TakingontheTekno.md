@@ -1,8 +1,9 @@
 ---
 title: "Episode 54: Taking on the Tekno"
-date: 3/10/2023
+date: 2023-03-10
 category: "Present"
 ---
+# 531~ ̶2̶ ̶~24☽
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/0e383deb-2f0a-4ae1-9edc-28e9bf41351a/12416220-episode-54-taking-on-the-tekno.mp3" type="audio/mpeg">

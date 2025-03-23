@@ -1,8 +1,9 @@
 ---
 title: "Episode 92: Creative Vibes"
-date: 2/9/2024
+date: 2024-02-09
 category: "Present"
 ---
+# 532~ ̶1̶ ̶~22☉
 <img src="https://artwork.captivate.fm/4260a44f-5c56-49ed-8516-8f7481786fa6/6UONhRRYdOpoGaH11WTWGs8e.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/42233db3-913c-4826-8c2c-db2deebc1dd2/Episode-92.mp3" type="audio/mpeg">

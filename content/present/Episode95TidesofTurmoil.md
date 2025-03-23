@@ -1,8 +1,9 @@
 ---
 title: "Episode 95 - Tides of Turmoil"
-date: 3/1/2024
+date: 2024-03-01
 category: "Present"
 ---
+# 532~ ̶2̶ ̶~15☉
 <img src="https://artwork.captivate.fm/275ff7ec-99fb-4d86-9618-9b2c463fc294/4O63fprEwqr6jxy7sM04hz19.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/eaffc5e3-6e27-46e6-8e36-bb26ee7daeac/Episode-95.mp3" type="audio/mpeg">

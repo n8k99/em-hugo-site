@@ -1,8 +1,9 @@
 ---
 title: "Episode 100: The Best of N8K99"
-date: 4/2/2024
+date: 2024-04-02
 category: "Present"
 ---
+# 532~ ̶3̶ ̶~19♃
 <img src="https://artwork.captivate.fm/d6d72d22-f644-49bd-9a3c-0c96a16684e4/ciRrund2JTKonV9wvBZ88s0t.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/ec44d35f-ab9e-456f-9678-08823487565e/Episode-100.mp3" type="audio/mpeg">

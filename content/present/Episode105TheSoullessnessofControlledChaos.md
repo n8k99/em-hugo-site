@@ -1,8 +1,9 @@
 ---
 title: "Episode 105: The Soullessness of Controlled Chaos"
-date: 5/18/2024
+date: 2024-05-18
 category: "Present"
 ---
+# 532~ ̶5̶ ̶~9☽
 <img src="https://artwork.captivate.fm/fa03b8e7-774b-4edd-a314-da1e6196082f/evHnA5a-gDqxezbv640eHejN.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/25d116b8-37f5-479e-93b1-8bba7f3f3cc9/Episode-105.mp3" type="audio/mpeg">

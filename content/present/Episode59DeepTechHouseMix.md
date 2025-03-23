@@ -1,8 +1,9 @@
 ---
 title: "Episode 59: Deep & Tech House Mix"
-date: 4/14/2023
+date: 2023-04-14
 category: "Present"
 ---
+# 531~ ̶4̶ ̶~3☽
 <img src="https://artwork.captivate.fm/d4424c7e-a69a-44f5-bf23-e880c1ea167b/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/063e0550-bde0-4dc9-9bdf-54fa8c508cd1/12649309-episode-59-deep-tech-house-mix.mp3" type="audio/mpeg">

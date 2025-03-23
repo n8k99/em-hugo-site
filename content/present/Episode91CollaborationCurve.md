@@ -1,8 +1,9 @@
 ---
 title: "Episode 91: Collaboration Curve"
-date: 2/2/2024
+date: 2024-02-02
 category: "Present"
 ---
+# 532~ ̶1̶ ̶~15☉
 <img src="https://artwork.captivate.fm/4dfa62b4-3743-4e41-a136-9312fe305356/Un3tV4Kt1GF-GWZz4rN63pqi.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f21ef9f2-9dbf-4d97-898b-2468e6bdb46c/Episode-91.mp3" type="audio/mpeg">

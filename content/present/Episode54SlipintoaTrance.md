@@ -1,8 +1,9 @@
 ---
 title: "Episode 54: Slip into a Trance"
-date: 3/3/2023
+date: 2023-03-03
 category: "Present"
 ---
+# 531~ ̶2̶ ̶~17☽
 <img src="https://artwork.captivate.fm/ef501c05-f750-4d5c-b164-438cedec11b0/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/6aeff3bf-12fc-4d55-b14e-760a1bd86404/12365370-episode-54-slip-into-a-trance.mp3" type="audio/mpeg">

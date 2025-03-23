@@ -1,8 +1,9 @@
 ---
 title: "Episode 72: High Heat of The Light"
-date: 7/21/2023
+date: 2023-07-21
 category: "Present"
 ---
+# 531~ ̶7̶ ̶~17☽
 <img src="https://artwork.captivate.fm/f3e08a4f-885e-43ef-9df6-1598f044f4d3/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/35150021-b01b-447c-bcde-a10bba50ebc3/13262391-episode-72-high-heat-of-the-light.mp3" type="audio/mpeg">

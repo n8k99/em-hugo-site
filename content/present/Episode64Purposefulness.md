@@ -1,8 +1,9 @@
 ---
 title: "Episode 64: Purposefulness"
-date: 5/26/2023
+date: 2023-05-26
 category: "Present"
 ---
+# 531~ ̶5̶ ̶~17☽
 <img src="https://artwork.captivate.fm/2633e374-a965-4f06-99cd-07f7fae43fcd/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f4b95d40-2c6e-4773-9f30-e581b0822d69/12925173-episode-64-purposefulness.mp3" type="audio/mpeg">

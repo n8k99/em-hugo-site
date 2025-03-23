@@ -1,8 +1,9 @@
 ---
 title: "Episode 90: Sonic Journey from The Basement JAX"
-date: 1/26/2024
+date: 2024-01-26
 category: "Present"
 ---
+# 532~ ̶1̶ ̶~8☉
 <img src="https://artwork.captivate.fm/feae0898-c600-4c2a-8a2a-3e169a700463/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/56b6d4dc-c1dd-423a-8304-c7fb061ee955/14386205-episode-90-sonic-journey-from-the-basement-jax.mp3" type="audio/mpeg">

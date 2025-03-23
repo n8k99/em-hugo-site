@@ -1,8 +1,9 @@
 ---
 title: "Episode 71: #IFTHEN"
-date: 7/14/2023
+date: 2023-07-14
 category: "Present"
 ---
+# 531~ ̶7̶ ̶~10☽
 <img src="https://artwork.captivate.fm/c0a6b038-0b3f-44c8-9b95-2f4ac62c457c/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/082ef6c7-f3a3-437e-836b-e543631f79be/13223996-episode-71-ifthen.mp3" type="audio/mpeg">

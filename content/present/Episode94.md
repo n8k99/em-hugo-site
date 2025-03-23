@@ -1,8 +1,9 @@
 ---
 title: "Episode 94"
-date: 2/23/2024
+date: 2024-02-23
 category: "Present"
 ---
+# 532~ ̶2̶ ̶~8☉
 <img src="https://artwork.captivate.fm/8b8223e2-3068-4ad1-b40d-d501032814de/SJkLpYRDhhgKaJp695DdiPYv.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/1ba55634-3486-4476-8fb8-ba3a4125c34f/ejw9jstowzaqrx8fzyjvibpitirshxhuigbfbrjsisuebas-ongsf1x9dxwwloc.mp3" type="audio/mpeg">

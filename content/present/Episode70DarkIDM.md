@@ -1,8 +1,9 @@
 ---
 title: "Episode 70: Dark IDM"
-date: 7/7/2023
+date: 2023-07-07
 category: "Present"
 ---
+# 531~ ̶7̶ ̶~3☽
 <img src="https://artwork.captivate.fm/a1ff6aec-86f4-4b8b-94e1-06f4e3f92c2c/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7c678a2e-0b81-40bb-84fc-91d295e4aad6/13180677-episode-70-dark-idm.mp3" type="audio/mpeg">

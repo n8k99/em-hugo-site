@@ -1,8 +1,9 @@
 ---
 title: "Episode 89: A New Year's Sonic Odyssey 🎵"
-date: 1/19/2024
+date: 2024-01-19
 category: "Present"
 ---
+# 532 ⛢
 <img src="https://artwork.captivate.fm/be06e6c3-ecbe-4619-92c0-8f588d3bcc1d/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/4dfab0fd-4610-42c9-9804-3908eb2a3d0b/14339612-episode-89-a-new-year-s-sonic-odyssey.mp3" type="audio/mpeg">
