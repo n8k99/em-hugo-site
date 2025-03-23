@@ -25,7 +25,7 @@
         <h1>{{ .Title }}</h1>
         <div>{{ .Content }}</div>  <!-- Displays the content of _index.md if it exists -->
         <ul>
-            {{ range .Pages.ByDate.Reverse }}
+            {{ range .Pages.ByDate }}
             
               <h1>{{ .Title }}</h1>
                 <p>{{ .Date.Format "January 2, 2006" }}</p>
