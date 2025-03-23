@@ -1,8 +1,9 @@
 ---
 title: "Episode 141: The Symphony of Worlds and War"
-date: 2/6/2025
+date: 2025-02-06
 category: "Present"
 ---
+# 533~ ̶1̶ ̶~21♀
 <img src="https://artwork.captivate.fm/b493986f-fb44-48a8-88f8-a4665643dfa3/umn1YFTsQJsZ_0Heq31-b8_C.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/9d5038a2-a950-4139-89ac-54cfc7ca602a/Episode-141.mp3" type="audio/mpeg">

@@ -1,8 +1,9 @@
 ---
 title: "Episode 136: No Ska, Just A Story"
-date: 1/3/2025
+date: 2025-01-03
 category: "Present"
 ---
+# 532~ ̶1̶3̶ ̶~15☉
 <img src="https://artwork.captivate.fm/6aec75bc-50bc-4fdb-8491-cdfb5aa292e8/eyqNUpRuZOt341RaUU0Ivi8o.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b943ebfd-ade0-4985-8b23-63019b1d8556/Episode-136.mp3" type="audio/mpeg">

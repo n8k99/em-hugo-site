@@ -1,8 +1,9 @@
 ---
 title: "Episode 137: Machines Dream Too"
-date: 1/9/2025
+date: 2025-01-09
 category: "Present"
 ---
+# 532~ ̶1̶3̶ ̶~21♄
 <img src="https://artwork.captivate.fm/a87d3d88-c750-4aaf-9ce7-561cd378a470/kEarIBBHpH7lzvEKhQt7Z4N1.jpeg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/98a890b6-29bb-4ea4-95a6-1192bab9feb8/Episode-137.mp3" type="audio/mpeg">

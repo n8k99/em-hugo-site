@@ -1,8 +1,9 @@
 ---
 title: "Episode 143 - Lamentations in Quantum Space"
-date: 2/20/2025
+date: 2025-02-20
 category: "Present"
 ---
+# 533~ ̶2̶ ̶~7♀
 <img src="https://artwork.captivate.fm/b7721511-3cbd-4f75-8fe9-518d94ada791/ZmV_WpmZ_5kPbKtekv9uaI-H.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d3d41753-2070-4af7-af3c-27212a524cec/Episode-143.mp3" type="audio/mpeg">

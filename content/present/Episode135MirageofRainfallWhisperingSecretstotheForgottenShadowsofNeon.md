@@ -1,8 +1,9 @@
 ---
 title: "Episode 135: Mirage of Rainfall Whispering Secrets to the Forgotten Shadows of Neon"
-date: 12/26/2024
+date: 2024-12-26
 category: "Present"
 ---
+# 532~ ̶1̶3̶ ̶~7♄
 <img src="https://artwork.captivate.fm/e70dabf5-77bf-4adc-b5c2-7658e27d7cc7/SwsXPZJEvXNe9mm6_JK8JITw.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7c6740da-7a1a-440e-9244-b6ea0b129a66/Episode-135.mp3" type="audio/mpeg">

@@ -1,8 +1,9 @@
 ---
 title: "River of Fire"
-date: 10/5/2024
+date: 2024-10-05
 category: "Present"
 ---
+# 532~ ̶1̶0̶ ̶~9☽
 <img src="https://artwork.captivate.fm/01c967c3-1127-4e98-950e-945b4c6e6c3a/xwZ2ORLwPY5KkEX_4_BjpfpV.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/894c1589-1e22-4f1a-b154-a04bfc095164/Episode-124.mp3" type="audio/mpeg">

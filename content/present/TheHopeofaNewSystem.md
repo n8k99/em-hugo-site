@@ -1,8 +1,9 @@
 ---
 title: "The Hope of a New System"
-date: 6/7/2024
+date: 2024-06-07
 category: "Present"
 ---
+# 532~ ̶6̶ ̶~1☉
 <img src="https://artwork.captivate.fm/bf14c9e7-45ab-49eb-916f-29db3a4883c9/SKuHU43DCX07_gcZKKYyno0a.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/2a07a5a2-cd0a-46f0-9015-796067ca8138/Episode-108.mp3" type="audio/mpeg">

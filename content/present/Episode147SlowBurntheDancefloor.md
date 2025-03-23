@@ -1,8 +1,9 @@
 ---
 title: "Episode 147 - Slow Burn the Dancefloor"
-date: 3/21/2025
+date: 2025-03-21
 category: "Present"
 ---
+# 533~ ̶3̶ ̶~8♄
 <img src="https://artwork.captivate.fm/772dd11d-e016-4a14-ace2-985f927aa3a6/ZOSXJCLgfAYHf9Cr62P07jJf.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b09ec342-400d-4531-be1e-577edbfebad7/Episode-147.mp3" type="audio/mpeg">

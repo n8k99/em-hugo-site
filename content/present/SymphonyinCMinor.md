@@ -1,8 +1,9 @@
 ---
 title: "Symphony in C-Minor"
-date: 10/31/2024
+date: 2024-10-31
 category: "Present"
 ---
+# 532~ ̶1̶1̶ ̶~7♄
 <img src="https://artwork.captivate.fm/9aefd851-974e-4ae1-aa68-8e858efff493/ggkq75N3NsXdldQJnIWct7Hi.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7d4802e1-5d27-4d24-bb28-1dfcd34e9984/Episode-128.mp3" type="audio/mpeg">

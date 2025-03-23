@@ -1,8 +1,9 @@
 ---
 title: "Episode 112 - Engage"
-date: 7/12/2024
+date: 2024-07-12
 category: "Present"
 ---
+# 532~ ̶7̶ ̶~8☉
 <img src="https://artwork.captivate.fm/43f60694-f318-46e7-ac40-0de50de74fee/Lk_jIZmcTq9YcUqKpCqMsnR4.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d8bb4907-faaa-4da8-88fe-8607705a7f45/Episode-113.mp3" type="audio/mpeg">

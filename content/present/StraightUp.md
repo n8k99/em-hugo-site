@@ -1,8 +1,9 @@
 ---
 title: "Straight Up"
-date: 11/21/2024
+date: 2024-11-21
 category: "Present"
 ---
+# 532~ ̶1̶1̶ ̶~28♄
 <img src="https://artwork.captivate.fm/fc47f2b9-7a5a-4549-9a6e-544efbfe8a4e/y0pZmlUCxvcgQ6ri2Lc3Kwfw.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/470b1c60-92fc-4d3c-844a-732ca49cd6a7/Episode-131.mp3" type="audio/mpeg">

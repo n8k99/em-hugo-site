@@ -1,8 +1,9 @@
 ---
 title: "Episode 134: A Day in Sound"
-date: 12/19/2024
+date: 2024-12-19
 category: "Present"
 ---
+# 532~ ̶1̶2̶ ̶~28♄
 <img src="https://artwork.captivate.fm/a8cb33ad-fc05-4cb8-b3d4-d23aff8c36d6/FStZ6IV-JLTHnGScUNmFtjFc.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/088b4331-ff59-4f04-9dc1-97bf0e61aefc/Episode-134.mp3" type="audio/mpeg">

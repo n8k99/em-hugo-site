@@ -1,8 +1,9 @@
 ---
 title: "Episode 133: Sabores del Rhythm"
-date: 12/12/2024
+date: 2024-12-12
 category: "Present"
 ---
+# 532~ ̶1̶2̶ ̶~21♄
 <img src="https://artwork.captivate.fm/f53020be-747b-4f90-9bdc-710f45f080bc/gdszouKhM2iBINrZQkCsHODy.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/743fd228-390c-47ed-9400-f23250d32714/Episode-133.mp3" type="audio/mpeg">
