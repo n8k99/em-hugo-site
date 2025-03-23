@@ -1,8 +1,9 @@
 ---
 title: "Episode 20: Slipping something in the Middle"
-date: 6/17/2022
+date: 2022-06-17
 category: "Prologue"
 ---
+# 530~ ̶6̶ ̶~11♂
 <img src="https://artwork.captivate.fm/89a98a89-543d-400e-b99c-36d1afc7f11f/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d07eb5ae-7f94-43cf-8397-85d697a83429/10811760-episode-20-slipping-something-in-the-middle.mp3" type="audio/mpeg">

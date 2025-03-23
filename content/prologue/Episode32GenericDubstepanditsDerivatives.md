@@ -1,8 +1,9 @@
 ---
 title: "Episode 32: Generic Dubstep and its Derivatives"
-date: 9/16/2022
+date: 2022-09-16
 category: "Prologue"
 ---
+# 530~ ̶9̶ ̶~18♂
 <img src="https://artwork.captivate.fm/cc450a27-9a41-4d9f-a91e-95b7d1c9434a/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/2d670a74-fa70-4c40-9f40-e465f54b83f8/11333737-episode-32-generic-dubstep-and-its-derivatives.mp3" type="audio/mpeg">

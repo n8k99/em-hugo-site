@@ -1,8 +1,9 @@
 ---
 title: "Episode 7: Loss of Control"
-date: 3/11/2022
+date: 2022-03-11
 category: "Prologue"
 ---
+# 530~ ̶2̶ ̶~25♂
 <img src="https://artwork.captivate.fm/cbd4e501-bd28-4112-8635-9b58d527d493/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/638c7349-0468-4cdd-9c97-1fcdeb34ad55/10234066-episode-7-loss-of-control.mp3" type="audio/mpeg">

@@ -3,6 +3,7 @@ title: "Episode 1: The Beginning"
 date: 2022-01-28
 category: "Prologue"
 ---
+# 530 ̶1̶ ̶11 ♂
 <img src="https://artwork.captivate.fm/c2b2d8d8-e8d4-4e46-ad9f-b1b04d5439ee/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b761c8ad-303b-4eb6-931f-745ea48843b3/9971319-episode-1-the-beginning.mp3" type="audio/mpeg">

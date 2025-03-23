@@ -1,8 +1,9 @@
 ---
 title: "Episode 45: Computer Programming is Composition"
-date: 12/30/2022
+date: 2022-12-30
 category: "Prologue"
 ---
+# 530~ ̶1̶3̶ ̶~11♂
 <img src="https://artwork.captivate.fm/7c1e7730-6547-4ff0-99cd-a6144c155b2a/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/041aecba-6fe2-48b2-abc0-020007def07c/11952209-episode-45-computer-programming-is-composition.mp3" type="audio/mpeg">

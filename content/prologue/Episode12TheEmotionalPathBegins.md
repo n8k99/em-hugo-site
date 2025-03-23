@@ -1,8 +1,9 @@
 ---
 title: "Episode 12: The Emotional Path Begins"
-date: 4/15/2022
+date: 2022-04-14
 category: "Prologue"
 ---
+# 530~ ̶4̶ ̶~4♂
 <img src="https://artwork.captivate.fm/d50e761e-57b8-4f11-96ea-1efdff7ae3e6/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7a9280a3-abe9-4779-9a5d-94041912150d/10446204-episode-12-the-emotional-path-begins.mp3" type="audio/mpeg">

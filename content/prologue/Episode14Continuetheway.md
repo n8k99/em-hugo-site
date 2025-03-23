@@ -1,8 +1,9 @@
 ---
 title: "Episode 14: Continue the way"
-date: 4/29/2022
+date: 2022-04-29
 category: "Prologue"
 ---
+# 530~ ̶4̶ ̶~18♂
 <img src="https://artwork.captivate.fm/1fc3a9d2-8ea8-4a2e-afab-6d058c92bd72/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/3a13ad48-6609-44a7-b2e2-b16864f4cc8f/10529635-episode-14-continue-the-way.mp3" type="audio/mpeg">
