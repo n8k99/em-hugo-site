@@ -26,11 +26,11 @@
         <div>{{ .Content }}</div>  <!-- Displays the content of _index.md if it exists -->
         <ul>
             {{ range .Pages.ByDate.Reverse }}
-            <li>
+            
                 {{ .Title }}
                 <p>{{ .Date.Format "January 2, 2006" }}</p>
                 <div>{{ .Content }}</div> <!-- Displays the full content of each page -->
-            </li>
+            
             {{ end }}
         </ul>
     </main>
