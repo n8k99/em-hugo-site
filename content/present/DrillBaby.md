@@ -1,8 +1,9 @@
 ---
 title: "Drill Baby"
-date: 11/7/2024
+date: 2024-11-07
 category: "Present"
 ---
+# 532~ ̶1̶1̶ ̶~14♄
 <img src="https://artwork.captivate.fm/32ff98c4-5886-453c-b0f9-ddda171c4394/vjej5yTPOWvQw82nMTPctNKf.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f285e71d-21d0-4532-a6e5-22b9b57aa83a/Episode-129.mp3" type="audio/mpeg">

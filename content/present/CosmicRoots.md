@@ -1,8 +1,9 @@
 ---
 title: "Cosmic Roots"
-date: 4/9/2024
+date: 2024-04-09
 category: "Present"
 ---
+# 532~ ̶3̶ ̶~26♃
 <img src="https://artwork.captivate.fm/df8699ca-9aa9-4fe8-98d7-2f3bb6256b2b/9wn7RYoW9R7RQT37H2NEtsax.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/f7a733f9-ae89-4d3b-99b8-8aa549162155/Episode-101.mp3" type="audio/mpeg">

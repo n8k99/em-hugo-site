@@ -1,8 +1,9 @@
 ---
 title: "Bleeps, Bloops, Blips"
-date: 11/14/2024
+date: 2024-11-14
 category: "Present"
 ---
+# 532~ ̶1̶1̶ ̶~21♄
 <img src="https://artwork.captivate.fm/08ee1f79-68a4-4abc-9277-d52099961505/DOchOKsGbbaQxI4u2Zqr_YRR.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/bae229e7-56dc-4244-94f5-485c2217862c/Episode-130.mp3" type="audio/mpeg">

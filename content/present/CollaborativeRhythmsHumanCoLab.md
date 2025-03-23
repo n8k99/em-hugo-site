@@ -1,8 +1,9 @@
 ---
 title: "Collaborative Rhythms - Human Co+Lab"
-date: 2/14/2024
+date: 2024-02-14
 category: "Present"
 ---
+# 532~ ̶1̶ ̶~27♀
 <img src="https://artwork.captivate.fm/ab9b3971-bbd7-41af-9662-12fa4725d073/BXcVXscY8BAggEOc1dziOmvD.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/daf7d2b6-0037-45c2-a2ec-8bffad298e21/Episode-2.mp3?played_on=f64c4f97-8a92-430f-af0f-e94ccb45d504" type="audio/mpeg">
