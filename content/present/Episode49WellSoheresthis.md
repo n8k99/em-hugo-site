@@ -7,9 +7,9 @@ tags: ["Episode", "Music", "Branding", "Authenticity", "Creative Process", "Stra
 ## 531~ ̶1̶ ̶~3☽
 Eqzfldmsdc mnsdr gnkc tmrddm ozssdqmr
 <img src="https://artwork.captivate.fm/4c768ed7-7e89-4f3f-a0a3-4410101ba270/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
-
-{{< audio src="https://podcasts.captivate.fm/media/ceec3afd-9315-4da5-92bf-225ec56bfbe5/12087780-episode-49-well-so-here-s-this.mp33" >}}
-
+<audio controls>
+  <source src="https://podcasts.captivate.fm/media/ceec3afd-9315-4da5-92bf-225ec56bfbe5/12087780-episode-49-well-so-here-s-this.mp3" type="audio/mpeg">
+</audio>
 
 <p>I really don&apos;t care about the whole branding bullshit and whatnots, I just make music. </p><a rel="payment" href="https://www.paypal.com/donate/?hosted_button_id=WX3GRUK5BHJLS">Support the show</a>
 
