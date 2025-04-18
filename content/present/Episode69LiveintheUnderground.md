@@ -4,7 +4,7 @@ date: 2023-06-30
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~24☽
-<img src="https://artwork.captivate.fm/a333fc1d-8ed5-4cc9-8d64-d22dd1970cc7/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/a333fc1d-8ed5-4cc9-8d64-d22dd1970cc7/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/6e198353-8f69-4f1b-b0ff-8c186f6a8d9f/13125994-episode-69-live-in-the-underground.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

@@ -4,7 +4,7 @@ date: 2022-09-23
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~25♂
-<img src="https://artwork.captivate.fm/326cae5a-f3d3-462e-b6de-e3e0d6a7b382/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/326cae5a-f3d3-462e-b6de-e3e0d6a7b382/6861a7550229613e3387373f20ad829b.jpeg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/90d67853-20da-484f-a116-1ce71e9cb7cf/11374189-episode-33-make-it-all-about-you-if-that-s-what-you-re.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

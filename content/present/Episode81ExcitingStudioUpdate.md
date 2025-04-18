@@ -4,7 +4,7 @@ date: 2023-11-17
 category: "Present"
 ---
 ## 531~ ̶1̶1̶ ̶~24☽
-<img src="https://artwork.captivate.fm/c71644f7-bad0-47f8-b50d-3d47b5031468/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/c71644f7-bad0-47f8-b50d-3d47b5031468/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/85b85132-17c4-4131-9205-ff5b6ecc0a61/13979065-episode-81-exciting-studio-update.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

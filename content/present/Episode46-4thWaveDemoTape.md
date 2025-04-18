@@ -4,7 +4,7 @@ date: 1/6/2023
 category: "Present"
 ---
 ## 530~ ̶1̶3̶ ̶~18♂
-<img src="https://artwork.captivate.fm/c86bc17a-9933-49c3-b277-be3232b49f60/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/c86bc17a-9933-49c3-b277-be3232b49f60/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/16534987-0b5c-438d-8f52-5be3891406ad/11992530-episode-46-4th-wave-demo-tape.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

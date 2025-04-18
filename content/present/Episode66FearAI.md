@@ -4,7 +4,7 @@ date: 2023-06-09
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~3☽
-<img src="https://artwork.captivate.fm/6fceded1-430f-42d2-b5d3-7c2f1cfe82e1/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/6fceded1-430f-42d2-b5d3-7c2f1cfe82e1/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/14dbb6be-b667-4829-ac5e-c4df08a397a7/13007862-episode-66-fear-ai.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

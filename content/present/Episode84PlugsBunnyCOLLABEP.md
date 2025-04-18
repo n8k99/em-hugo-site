@@ -4,7 +4,7 @@ date: 2023-12-08
 category: "Present"
 ---
 ## 531~ ̶1̶2̶ ̶~17☽
-<img src="https://artwork.captivate.fm/1b704984-af60-4926-b75c-5fd442e00e79/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/1b704984-af60-4926-b75c-5fd442e00e79/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7e6a0bbd-1a87-487b-ac49-a37fe536880b/14100167-episode-84-plugs-bunny-collab-ep.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

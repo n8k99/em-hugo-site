@@ -4,7 +4,7 @@ date: 2022-04-01
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~18♂
-<img src="https://artwork.captivate.fm/46f7dc57-5b1c-4706-88fc-d42e88b707f4/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/46f7dc57-5b1c-4706-88fc-d42e88b707f4/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/7cd6dd0a-7a96-4cf8-ad39-c9ba56c305f5/10362916-episode-10-waiting-for-the-g-train-after-midnight.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

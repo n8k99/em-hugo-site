@@ -4,7 +4,7 @@ date: 2022-11-04
 category: "Prologue"
 ---
 ## 530~ ̶1̶1̶ ̶~11♂
-<img src="https://artwork.captivate.fm/945e1be9-0557-419b-a6d5-778762b35683/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/945e1be9-0557-419b-a6d5-778762b35683/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/0ff4ae06-b8a1-444e-980d-9db7b6d115e6/11632236-episode-39-gearing-up.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

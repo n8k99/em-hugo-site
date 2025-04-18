@@ -4,7 +4,7 @@ date: 2022-10-21
 category: "Prologue"
 ---
 ## 530~ ̶1̶0̶ ̶~25♂
-<img src="https://artwork.captivate.fm/05c26e1d-7d9f-4627-bbf6-18f11394b583/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/05c26e1d-7d9f-4627-bbf6-18f11394b583/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/fae180c9-5619-48df-ab08-467f6439ae27/11542600-episode-37-generic-chillwave.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

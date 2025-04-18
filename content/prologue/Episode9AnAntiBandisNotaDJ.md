@@ -4,7 +4,7 @@ date: 2022-03-25
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~11♂
-<img src="https://artwork.captivate.fm/a3b2fc23-99b2-4489-81ec-eceadad8e0ef/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/a3b2fc23-99b2-4489-81ec-eceadad8e0ef/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/df958fbb-7d91-4f5b-9f8d-7bd9dc0222d5/10318115-episode-9-an-anti-band-is-not-a-dj.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

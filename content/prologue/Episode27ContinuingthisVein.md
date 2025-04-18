@@ -4,7 +4,7 @@ date: 2022-08-12
 category: "Prologue"
 ---
 ## 530~ ̶8̶ ̶~11♂
-<img src="https://artwork.captivate.fm/3b9d1784-4abf-4285-967f-e7115c6ff1e4/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/3b9d1784-4abf-4285-967f-e7115c6ff1e4/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b0397cb0-ee5a-49a2-a12d-c39f4f22b459/11129227-episode-27-continuing-this-vein.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

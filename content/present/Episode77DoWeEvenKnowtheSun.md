@@ -4,7 +4,7 @@ date: 2023-08-25
 category: "Present"
 ---
 ## 531~ ̶8̶ ̶~24☽
-<img src="https://artwork.captivate.fm/e05384e0-3ce4-4426-b8bd-556e8aa287c4/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/e05384e0-3ce4-4426-b8bd-556e8aa287c4/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b59a1a93-97c2-460b-8b31-91284f6c8b65/13469587-episode-77-do-we-even-know-the-sun.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

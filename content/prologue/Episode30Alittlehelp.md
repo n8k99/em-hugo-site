@@ -4,7 +4,7 @@ date: 2022-09-02
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~4♂
-<img src="https://artwork.captivate.fm/aa566f66-9e87-4abd-893c-8a26ef93f026/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/aa566f66-9e87-4abd-893c-8a26ef93f026/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/5aaf38e7-6b2d-4da1-8b0d-1755a06a602f/11251792-episode-30-a-little-help.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

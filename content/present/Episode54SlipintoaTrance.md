@@ -6,7 +6,7 @@ tags: ["Trance", "Improv", "Episode", "March 2023", "Abstract Soundscapes", "Hid
 ---
 ## 531~ ̶2̶ ̶~17☽
 Mfuzsjlwv xjwimwfuawk jwnwsd zavvwf ljmlzk
-<img src="https://artwork.captivate.fm/ef501c05-f750-4d5c-b164-438cedec11b0/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/ef501c05-f750-4d5c-b164-438cedec11b0/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/6aeff3bf-12fc-4d55-b14e-760a1bd86404/12365370-episode-54-slip-into-a-trance.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

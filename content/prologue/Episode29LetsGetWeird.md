@@ -4,7 +4,7 @@ date: 2022-08-27
 category: "Prologue"
 ---
 ## 530~ ̶8̶ ̶~26☿
-<img src="https://artwork.captivate.fm/acb52f61-8e0d-44b0-bc7d-56e7ce78b63c/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/acb52f61-8e0d-44b0-bc7d-56e7ce78b63c/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/84622468-aa5d-415b-8a3e-30cf972f0eef/11213319-episode-29-let-s-get-weird.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

@@ -4,7 +4,7 @@ date: 2022-06-10
 category: "Prologue"
 ---
 ## 530~ ̶6̶ ̶~4♂
-<img src="https://artwork.captivate.fm/57cd5bb4-ab37-4a4c-9745-94e457ef2ff5/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/57cd5bb4-ab37-4a4c-9745-94e457ef2ff5/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/ba614162-6d9f-4556-9806-92bf3ee172a8/10772132-episode-19-maximum-chill.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

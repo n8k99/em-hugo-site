@@ -4,7 +4,7 @@ date: 2022-07-15
 category: "Prologue"
 ---
 ##  530~ ̶7̶ ̶~11♂
-<img src="https://artwork.captivate.fm/1a2b617a-45aa-4279-9bbc-a740efc228c9/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/1a2b617a-45aa-4279-9bbc-a740efc228c9/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/05b1af0f-f738-47b3-adb8-af4ce34d0b98/10968655-episode-24-let-s-get-it-all-out-in-the-open.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

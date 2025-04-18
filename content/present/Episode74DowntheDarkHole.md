@@ -4,7 +4,7 @@ date: 2023-08-04
 category: "Present"
 ---
 ## 531~ ̶8̶ ̶~3☽
-<img src="https://artwork.captivate.fm/f1a1150f-00f8-45dd-8208-bb4e11f2b998/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/f1a1150f-00f8-45dd-8208-bb4e11f2b998/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/41d23eeb-93ca-4109-bf43-2035c272dac5/13350858-episode-74-down-the-dark-hole.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

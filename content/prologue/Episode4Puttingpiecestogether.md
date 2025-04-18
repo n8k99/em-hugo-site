@@ -4,7 +4,7 @@ date: 2022-02-18
 category: "Prologue"
 ---
 ## 530~ ̶2̶ ̶~4♂
-<img src="https://artwork.captivate.fm/8e2f983a-450d-4f2f-b1f3-de5456f78bc2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/8e2f983a-450d-4f2f-b1f3-de5456f78bc2/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/4d5d2015-102b-430b-9750-d4cb20d30f5c/10100897-episode-4-putting-pieces-together.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

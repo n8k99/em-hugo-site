@@ -4,7 +4,7 @@ date: 2022-03-05
 category: "Prologue"
 ---
 ## 530~ ̶2̶ ̶~19☿
-<img src="https://artwork.captivate.fm/1ec7ec4b-f7c1-4bf3-8023-47c60fe010ae/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/1ec7ec4b-f7c1-4bf3-8023-47c60fe010ae/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/12e13ad2-a62a-43e2-bf68-53a6cb03c7f9/10185119-episode-6-a-new-leaf.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

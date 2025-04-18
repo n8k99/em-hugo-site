@@ -4,7 +4,7 @@ date: 2024-01-12
 category: "Present"
 ---
 ## 531~ ̶1̶3̶ ̶~24☽
-<img src="https://artwork.captivate.fm/c531db6f-8bd8-4f6c-9862-60624a3663ce/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/c531db6f-8bd8-4f6c-9862-60624a3663ce/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b7077b38-8ea9-4dbb-bfaf-1cd7b08e67ca/14297242-episode-88.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

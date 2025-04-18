@@ -4,7 +4,7 @@ date: 2023-03-17
 category: "Present"
 ---
 ## 531~ ̶3̶ ̶~3☽
-<img src="https://artwork.captivate.fm/85e670da-ebaf-4f7f-aa17-0b2b9b57f87f/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/85e670da-ebaf-4f7f-aa17-0b2b9b57f87f/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/789e9852-71dd-403d-9db8-b79387e6ecc6/12456414-episode-55-back-to-chill.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

@@ -4,7 +4,7 @@ date: 2022-07-08
 category: "Prologue"
 ---
 ## 530~ ̶7̶ ̶~4♂
-<img src="https://artwork.captivate.fm/59066fbb-714a-4c43-945d-04a100018f36/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/59066fbb-714a-4c43-945d-04a100018f36/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/9469bc90-cfff-49ce-be9c-f30c8ef7d4ee/10928102-episode-23-casually-jamming-live.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

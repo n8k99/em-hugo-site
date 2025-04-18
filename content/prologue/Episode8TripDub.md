@@ -4,7 +4,7 @@ date: 2022-03-18
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~4♂
-<img src="https://artwork.captivate.fm/85d59471-31f6-41b8-9e2f-ac0e7d72b9fd/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/85d59471-31f6-41b8-9e2f-ac0e7d72b9fd/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/8c09d2cf-3871-40ef-a4a3-2e28307403da/10271093-episode-8-trip-dub.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

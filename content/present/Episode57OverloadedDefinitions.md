@@ -4,7 +4,7 @@ date: 2023-03-31
 category: "Present"
 ---
 ## 531~ ̶3̶ ̶~17☽
-<img src="https://artwork.captivate.fm/428d29f4-7ffc-41bc-bc94-853f1ca71da0/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/428d29f4-7ffc-41bc-bc94-853f1ca71da0/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/999a9355-97cf-4659-8763-ba32e8c92e79/12555322-episode-57-overloaded-definitions.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

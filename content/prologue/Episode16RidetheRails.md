@@ -4,7 +4,7 @@ date: 2022-05-13
 category: "Prologue"
 ---
 ## 530~ ̶5̶ ̶~4♂
-<img src="https://artwork.captivate.fm/0981fb4c-a601-4c98-91d5-fa5659071685/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/0981fb4c-a601-4c98-91d5-fa5659071685/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/83ee864c-64af-4854-a322-c6ca7d5f8b5d/10611571-episode-16-ride-the-rails.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

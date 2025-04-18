@@ -4,7 +4,7 @@ date: 2023-09-01
 category: "Present"
 ---
 ## 531~ ̶9̶ ̶~3☽
-<img src="https://artwork.captivate.fm/174c1766-d403-403b-93b6-6a3e42e8ca12/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/174c1766-d403-403b-93b6-6a3e42e8ca12/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/97ffb991-9efb-4b82-a4a6-17fba4feecd6/13512102-episode-78-super-blue-moon-surprise.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

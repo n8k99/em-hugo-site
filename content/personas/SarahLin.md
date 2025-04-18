@@ -79,9 +79,9 @@ This initiative aims to develop and implement a comprehensive system for streaml
 
 #### Key Collaborators
 
-- • [Priya Patel](Priya%20Patel%2014aa49bf1ac78107afece9dbb5f88c32.md) - For communications alignment
-- • [Jay Harper](Jay%20Harper%2014aa49bf1ac7814fb415dd1f4fe064fc.md) - For technical implementation support
-- • [Milo Gaines](Milo%20Gaines%2014aa49bf1ac7810e95a7e7d769df797c.md) - For mentorship and guidance
+- • [Priya Patel](PriyaPatel.md) - For communications alignment
+- • [Jay Harper](JayHarper.md) - For technical implementation support
+- • [Milo Gaines](MiloGaines.md) - For mentorship and guidance
 
 #### Expected Outcomes
 
@@ -92,4 +92,4 @@ This initiative aims to develop and implement a comprehensive system for streaml
 
 This project aligns perfectly with Sarah's role as "The Organizer" and leverages her background in business administration while incorporating her interest in productivity improvement. The initiative will create lasting value for EM by establishing more efficient operational systems at the executive level.
 
-[**Backstory of Sarah Lin**](Sarah%20Lin%2014aa49bf1ac781c7a41ed04a4057139e/Backstory%20of%20Sarah%20Lin%20160a49bf1ac780cdaa0af882519b2508.md)
+[**Backstory of Sarah Lin**](SarahLin/BackstoryofSarahLin.md)

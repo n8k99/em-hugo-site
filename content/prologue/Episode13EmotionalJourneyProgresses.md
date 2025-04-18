@@ -4,7 +4,7 @@ date: 2022-04-23
 category: "Prologue"
 ---
 ## 530~ ̶4̶ ̶~12☿
-<img src="https://artwork.captivate.fm/5e0159eb-4138-4da4-a69e-f85e53e2ae17/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/5e0159eb-4138-4da4-a69e-f85e53e2ae17/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/29b860d1-7caf-4349-bf29-2a059bd70c82/10487594-episode-13-emotional-journey-progresses.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

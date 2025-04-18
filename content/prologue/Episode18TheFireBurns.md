@@ -4,7 +4,7 @@ date: 2022-06-03
 category: "Prologue"
 ---
 ## 530~ ̶5̶ ̶~25♂
-<img src="https://artwork.captivate.fm/11636a98-fa9a-4726-b185-7b7cba56edb1/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/11636a98-fa9a-4726-b185-7b7cba56edb1/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/d34f9275-9bd7-4810-8010-4151b1e40a19/10732256-episode-18-the-fire-burns.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

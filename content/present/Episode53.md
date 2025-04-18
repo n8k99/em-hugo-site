@@ -6,7 +6,7 @@ tags: ["Episode", "Peace", "February 2023", "Spiritual Journey", "Ambient Sounds
 ---
 ## 531~ ̶2̶ ̶~10☽
 Vrty svrk yzuvj r jkfip nzkyze jzcvetv
-<img src="https://artwork.captivate.fm/9857a0d1-b906-41da-8dfb-b4c03c63bd64/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/9857a0d1-b906-41da-8dfb-b4c03c63bd64/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/15982a97-0efd-48d9-ae80-0467dc49cbdf/12322679-episode-53.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

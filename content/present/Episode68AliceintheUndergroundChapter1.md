@@ -4,7 +4,7 @@ date: 2023-06-23
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~17☽
-<img src="https://artwork.captivate.fm/1d9bc5ad-c4f5-4e65-86b6-b3407424d0d7/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/1d9bc5ad-c4f5-4e65-86b6-b3407424d0d7/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/19ebfc55-d1c3-4417-9a41-56da7ec0bba8/13078775-episode-68-alice-in-the-underground-chapter-1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

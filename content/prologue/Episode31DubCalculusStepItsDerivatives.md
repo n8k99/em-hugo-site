@@ -4,7 +4,7 @@ date: 2022-09-09
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~11♂
-<img src="https://artwork.captivate.fm/f1ad613f-0fd2-4d23-a696-4e274b5265d2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/f1ad613f-0fd2-4d23-a696-4e274b5265d2/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/19deb5a2-dd05-40dc-a379-3becf4254d7d/11291770-episode-31-dubcalculusstep-it-s-derivatives.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

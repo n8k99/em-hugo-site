@@ -4,7 +4,7 @@ date: 2023-12-29
 category: "Present"
 ---
 ## 531~ ̶1̶3̶ ̶~10☽
-<img src="https://artwork.captivate.fm/3ddbae9d-acd4-45ac-8e94-64e60468592a/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/3ddbae9d-acd4-45ac-8e94-64e60468592a/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/8578f9bb-efd0-4d3f-983b-178729b28d29/14204927-episode-86-standing-in-isolation.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

@@ -6,7 +6,7 @@ tags: ["Episode", "Illness", "January 2023", "n8k99", "Sarah Lin", "Kathryn Lyon
 ---
 ## 530~ ̶1̶3̶ ̶~25♂
 Pcvluncihm ywbi ch wixyx bulgihs
-<img src="https://artwork.captivate.fm/320eccab-b02f-4257-93cd-07c3e7f409d3/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/320eccab-b02f-4257-93cd-07c3e7f409d3/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/b302f787-3850-49e9-83c1-9ec64ed57d1d/12038054-episode-47-illness.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

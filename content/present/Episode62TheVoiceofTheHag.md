@@ -4,7 +4,7 @@ date: 2023-05-05
 category: "Present"
 ---
 ## 531~ ̶4̶ ̶~24☽
-<img src="https://artwork.captivate.fm/1353105e-84f7-4304-9b40-962ff921f949/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/1353105e-84f7-4304-9b40-962ff921f949/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/cd003292-136f-4004-a586-5b54561cbcb7/12784191-episode-62-the-voice-of-the-hag.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

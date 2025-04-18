@@ -4,7 +4,7 @@ date: 2022-10-28
 category: "Prologue"
 ---
 ## 530~ ̶1̶1̶ ̶~4♂
-<img src="https://artwork.captivate.fm/c812e115-45a9-49e2-a2d0-f5160a209881/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/c812e115-45a9-49e2-a2d0-f5160a209881/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/5b2d7184-464f-4e7d-b0eb-659cfc505c2a/11583643-episode-38-generic-electro-house.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

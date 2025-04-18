@@ -4,7 +4,7 @@ date: 2023-04-28
 category: "Present"
 ---
 ## 531~ ̶4̶ ̶~17☽
-<img src="https://artwork.captivate.fm/7c0bf403-2917-4c39-b394-0ee3b5989cc0/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" alt="Episode Cover Image" width=80%/>
+<img src="https://artwork.captivate.fm/7c0bf403-2917-4c39-b394-0ee3b5989cc0/60854458c4d1acdf4e1c2f79c4137142.jpg" alt="Episode Cover Image" width=80%/>
 <audio controls>
   <source src="https://podcasts.captivate.fm/media/9d11692f-9b67-4ffa-bd17-c61ca62e167f/12741918-episode-61-welcome-to-the-shadow-realm.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
