@@ -34,3 +34,5 @@ I work closely with Zoey Chen (my supervisor) and collaborate with team members 
 ### Current Focus
 
 My primary responsibilities include analyzing audience data for trends, designing feedback mechanisms, and working with our Content and Technical teams to create more personalized user experiences. I'm particularly excited about projects that allow us to better understand and serve our diverse audience base.
+
+[[em-staff/PeopleDirectory/AlexTorres|AlexTorres]]
