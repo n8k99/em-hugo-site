@@ -1,6 +1,7 @@
 ---
 title: "Episode 3: Let's Add some Vocals"
 date: 2022-02-11
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶ ̶~25 ♂

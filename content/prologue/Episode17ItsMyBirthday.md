@@ -1,6 +1,7 @@
 ---
 title: "Episode 17: It's My Birthday"
 date: 2022-05-22
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶5̶ ̶~11♂

@@ -1,6 +1,7 @@
 ---
 title: "Episode 45: Computer Programming is Composition"
 date: 2022-12-30
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶3̶ ̶~11♂

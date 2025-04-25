@@ -1,6 +1,7 @@
 ---
 title: "Episode 69: Live in the Underground"
 date: 2023-06-30
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~24☽

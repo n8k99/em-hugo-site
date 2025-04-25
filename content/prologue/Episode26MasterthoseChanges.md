@@ -1,6 +1,7 @@
 ---
 title: "Episode 26: Master those Changes"
 date: 2022-08-05
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶8̶ ̶~4♂

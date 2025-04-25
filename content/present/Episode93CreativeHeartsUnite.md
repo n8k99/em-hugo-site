@@ -1,6 +1,7 @@
 ---
 title: "Episode 93: Creative Hearts Unite"
 date: 2024-02-16
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶2̶ ̶~1☉

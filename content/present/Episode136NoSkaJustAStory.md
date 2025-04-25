@@ -1,6 +1,7 @@
 ---
 title: "Episode 136: No Ska, Just A Story"
 date: 2025-01-03
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶3̶ ̶~15☉

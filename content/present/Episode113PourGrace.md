@@ -1,6 +1,7 @@
 ---
 title: "Episode 113 - Pour Grace"
 date: 2024-07-19
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶7̶ ̶~15☉

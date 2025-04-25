@@ -1,6 +1,7 @@
 ---
 title: "Episode 55: Back to Chill"
 date: 2023-03-17
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶3̶ ̶~3☽

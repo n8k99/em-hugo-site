@@ -1,6 +1,7 @@
 ---
 title: "Episode 133: Sabores del Rhythm"
 date: 2024-12-12
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶2̶ ̶~21♄

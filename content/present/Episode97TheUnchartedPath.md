@@ -1,6 +1,7 @@
 ---
 title: "Episode 97: The Uncharted Path"
 date: 2024-03-15
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶3̶ ̶~1☉

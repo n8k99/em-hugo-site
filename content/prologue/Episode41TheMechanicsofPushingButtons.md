@@ -1,6 +1,7 @@
 ---
 title: "Episode 41:The Mechanics of Pushing Buttons"
 date: 2022-11-18
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶1̶ ̶~25♂

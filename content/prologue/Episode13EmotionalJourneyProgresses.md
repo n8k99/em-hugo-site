@@ -1,6 +1,7 @@
 ---
 title: "Episode 13: Emotional Journey Progresses"
 date: 2022-04-23
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶4̶ ̶~12☿

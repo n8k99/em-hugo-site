@@ -1,6 +1,7 @@
 ---
 title: "Episode 4: Putting pieces together"
 date: 2022-02-18
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶2̶ ̶~4♂

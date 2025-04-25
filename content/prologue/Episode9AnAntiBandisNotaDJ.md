@@ -1,6 +1,7 @@
 ---
 title: "Episode 9: An Anti-Band is Not a DJ"
 date: 2022-03-25
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~11♂

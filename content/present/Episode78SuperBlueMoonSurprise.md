@@ -1,6 +1,7 @@
 ---
 title: "Episode 78: Super Blue Moon Surprise"
 date: 2023-09-01
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶9̶ ̶~3☽

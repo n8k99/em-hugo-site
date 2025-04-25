@@ -1,6 +1,7 @@
 ---
 title: "Episode 79: Multiplicity of Tasks Management"
 date: 2023-09-08
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶9̶ ̶~10☽

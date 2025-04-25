@@ -1,6 +1,7 @@
 ---
 title: "Episode 84: Plugs Bunny COLLAB EP"
 date: 2023-12-08
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶2̶ ̶~17☽

@@ -1,6 +1,7 @@
 ---
 title: "Episode 60: Enter the Shadow"
 date: 2023-04-21
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶4̶ ̶~10☽

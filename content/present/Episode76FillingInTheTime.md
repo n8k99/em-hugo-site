@@ -1,6 +1,7 @@
 ---
 title: "Episode 76: Filling In The Time"
 date: 2023-08-18
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶8̶ ̶~17☽

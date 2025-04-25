@@ -1,6 +1,7 @@
 ---
 title: "Episode 111: Free flowing Cool Vibes"
 date: 2024-07-05
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶7̶ ̶~1☉

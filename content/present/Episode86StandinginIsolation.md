@@ -1,6 +1,7 @@
 ---
 title: "Episode 86: Standing in Isolation"
 date: 2023-12-29
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶3̶ ̶~10☽

@@ -1,6 +1,7 @@
 ---
 title: "Episode 92: Creative Vibes"
 date: 2024-02-09
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶ ̶~22☉

@@ -1,6 +1,7 @@
 ---
 title: "Episode 58: Limbic System Crash"
 date: 2023-04-07
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶3̶ ̶~24☽

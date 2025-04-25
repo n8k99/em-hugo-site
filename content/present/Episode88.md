@@ -1,6 +1,7 @@
 ---
 title: "Episode 88"
 date: 2024-01-12
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶3̶ ̶~24☽

@@ -1,6 +1,7 @@
 ---
 title: "Episode 25: A bit of this, a bit of that"
 date: 2022-07-29
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶7̶ ̶~25♂

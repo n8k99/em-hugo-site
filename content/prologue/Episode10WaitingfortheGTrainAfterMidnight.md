@@ -1,6 +1,7 @@
 ---
 title: "Episode 10: Waiting for the G Train After Midnight"
 date: 2022-04-01
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~18♂

@@ -1,6 +1,7 @@
 ---
 title: "Episode 31: DubCalculusStep & It's Derivatives"
 date: 2022-09-09
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~11♂

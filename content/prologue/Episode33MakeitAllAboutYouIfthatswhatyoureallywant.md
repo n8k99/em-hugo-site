@@ -1,6 +1,7 @@
 ---
 title: "Episode 33: Make it All About You (If that's what you really want)"
 date: 2022-09-23
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~25♂

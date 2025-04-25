@@ -1,6 +1,7 @@
 ---
 title: "Episode 67: Epic Background Movement"
 date: 2023-06-17
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~11♂

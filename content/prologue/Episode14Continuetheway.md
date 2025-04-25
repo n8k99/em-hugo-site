@@ -1,6 +1,7 @@
 ---
 title: "Episode 14: Continue the way"
 date: 2022-04-29
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶4̶ ̶~18♂

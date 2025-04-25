@@ -1,6 +1,7 @@
 ---
 title: "Episode 39: Gearing UP"
 date: 2022-11-04
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶1̶ ̶~11♂

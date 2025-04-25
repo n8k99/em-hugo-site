@@ -1,6 +1,7 @@
 ---
 title: "Episode 19: Maximum Chill"
 date: 2022-06-10
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶6̶ ̶~4♂

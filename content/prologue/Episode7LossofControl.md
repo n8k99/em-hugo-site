@@ -1,6 +1,7 @@
 ---
 title: "Episode 7: Loss of Control"
 date: 2022-03-11
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶2̶ ̶~25♂

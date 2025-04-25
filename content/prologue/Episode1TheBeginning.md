@@ -1,6 +1,7 @@
 ---
 title: "Episode 1: The Beginning"
 date: 2022-01-28
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530 ̶1̶ ̶11 ♂

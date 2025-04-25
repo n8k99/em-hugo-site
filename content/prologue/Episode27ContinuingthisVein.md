@@ -1,6 +1,7 @@
 ---
 title: "Episode 27: Continuing this Vein"
 date: 2022-08-12
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶8̶ ̶~11♂
