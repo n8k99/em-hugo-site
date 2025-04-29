@@ -1,12 +1,13 @@
 ---
----
 title: "Nathan Eckenrode"
-layout: "single" # Change from "home" to "single" (or default)
-type: "page"     # Change from "section" to "page"
-_build:
-  list: never   # Prevent it from being treated as a list
-  render: always # Ensure it gets rendered
+layout: "home"
+type: "section"
+cascade:
+  _build:
+    list: always
+    render: always # Ensure it gets rendered
 ---
+
 ## About Me
 
 As the CEO of Eckenrode Muziekopname (EM), I lead our executive team in pushing the boundaries of AI-powered creative media. With a unique blend of technical expertise and artistic vision, I bring a distinctive perspective to our mission of revolutionizing the creative industry.

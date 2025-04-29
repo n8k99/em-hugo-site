@@ -1,5 +1,6 @@
 ---
 title: "Personas"
+weight: 6
 layout: "home"
 ---
 In this grand pursuit, a cast of characters emerges—each one clamoring to be seen, heard, and remembered. They exist in the margins of imagination, waiting for their moment to step into the light. Some whisper their stories in hushed tones, while others demand recognition with voices that refuse to be ignored. Each brings a unique presence, a role to play, and a purpose that shapes the unfolding narrative. And now, it is time to give them their due.
@@ -7,7 +8,7 @@ In this grand pursuit, a cast of characters emerges—each one clamoring to be s
 ## Executives
 |                                                                                      |                                                     |                             |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------- | --------------------------- |
-| <img src="/personas/images/N8K99.jpg.png" alt="Nathan Eckenrode" width="100" />      | [**Nathan Eckenrode**,](/personas/NathanEckenrode/) | Chief Executive Officer     |
+| <img src="/personas/images/N8K99.jpg.png" alt="Nathan Eckenrode" width="100" />      | **Nathan Eckenrode**,                              | Chief Executive Officer     |
 | <img src="/personas/images/KathrynLyonne.png" alt="Kathryn Lyonne" width="100"/>     | **Kathryn Lyonne**,                                 | Chief Success Officer       |
 | <img src="/personas/images/Max.png" alt="J. Maxwell Charbourne" width="100"/>        | **J. Maxwell Charboourne**,                         | Head of Legal & Ethics      |
 | <img src="/personas/images/ElianaRiviera.png" alt="Eliana Riviera" width="100"/>     | **Eliana Riviera**,                                 | Chief Technical Officer     |
@@ -32,7 +33,7 @@ In this grand pursuit, a cast of characters emerges—each one clamoring to be s
 |<img src="/personas/images/DanielleGreen.png" alt="Danielle Green" width="100" />| **Danielle Green**, |Machine Learning Engineer |
 |<img src="/personas/images/DevinPark.png" alt="Devin Park" width="100" />| **Devin Park**, |Performance Optimizer |
 |<img src="/personas/images/ElisePark.png" alt="Elise Park" width="100" />| **Elise Park**, |Human-Computer Interaction Specialist |
-|<img src="/personas/images/Isaac Miller.png" alt="Isaac Miller" width="100" />| **Isaac Miller**, |AI Interaction Designer |
+|<img src="/personas/images/IsaacMiller.png" alt="Isaac Miller" width="100" />| **Isaac Miller**, |AI Interaction Designer |
 |<img src="/personas/images/MorganFields.png" alt="Morgan Fields" width="100" />| **Morgan Fields**, |Systems Engineer |
 |<img src="/personas/images/SamirKhanna.png" alt="Sammir Khanna" width="100" />| **Sammir Khanna**, |AI Architect|
 |<img src="/personas/images/SanjayPatel.png" alt="Sanjay Patel" width="100" />| **Sanjay Patel**, |Data Scientist|

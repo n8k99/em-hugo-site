@@ -1,5 +1,6 @@
 ---
 title: "Podcasts"
+weight: 5
 layout: "home"
 type: "section"
 cascade:

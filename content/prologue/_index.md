@@ -1,5 +1,6 @@
 ---
 title: "Prologue: 518 ̶1̶2̶ ̶27 ♃"
+weight: 2
 layout: "home"
 type: "section"
 cascade:

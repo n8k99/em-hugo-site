@@ -29,27 +29,24 @@ nav {
     position: fixed;
     left: 0;
     top: 50px;
-    width: 180px;
+    width: 200px; /* Adjusted width for smaller sidebar */
     height: calc(100vh - 50px);
     background: #e0d9cc;
-    padding: 20px;
+    padding: 15px; /* Reduced padding */
     box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.2);
     font-family: "Garamond", serif;
     font-size: 16px;
-}
-
-nav h3 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
+    transition: width 0.3s ease; /* Smooth transition for resizing */
 }
 
 nav ul {
     list-style: none;
     padding: 0;
+    margin: 0; /* Remove any margin to align items to the left */
 }
 
 nav ul li {
-    margin-bottom: 10px;
+    margin: 0; /* Remove margin around list items */
 }
 
 nav ul li a {
@@ -60,10 +57,6 @@ nav ul li a {
     display: block;
     background: rgba(255, 255, 255, 0.5);
     border-radius: 5px;
-}
-
-nav ul li a:hover {
-    background: rgba(255, 255, 255, 0.9);
 }
 
 /* Content Layout */

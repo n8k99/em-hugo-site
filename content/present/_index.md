@@ -1,6 +1,7 @@
 ---
 title: "Present"
-layout: "list"
+weight: 3
+layout: "home"
 type: "section"
 cascade:
   _build:

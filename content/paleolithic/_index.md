@@ -1,5 +1,6 @@
 ---
 title: "Paleolithic"
+weight: 1
 layout: "home"
 type: "section"
 cascade:
