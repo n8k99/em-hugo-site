@@ -5,7 +5,7 @@ type: "section"
 cascade:
   _build:
     list: always
-Lifestage: 🌱 Seed
+
     render: always
 ---
 Exploring future ideas, what could be, and speculative possibilities.
