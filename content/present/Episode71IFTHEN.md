@@ -1,6 +1,7 @@
 ---
 title: "Episode 71: ##IFTHEN"
 date: 2023-07-14
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 # 531~ ̶7̶ ̶~10☽

@@ -1,6 +1,7 @@
 ---
 title: "Episode 98. S1L4S - Rebel Waves"
 date: 2024-03-20
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶3̶ ̶~6♀

@@ -1,6 +1,7 @@
 ---
 title: "Scattered"
 date: 2024-09-13
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶9̶ ̶~15☉

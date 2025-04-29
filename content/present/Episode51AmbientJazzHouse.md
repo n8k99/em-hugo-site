@@ -2,6 +2,7 @@
 title: "Episode 51: Ambient Jazz House"
 date: 2023-02-03
 category: "Present"
+Lifestage: 🌱 Seed
 tags: ["Ambient", "Jazz", "Electronic, Experimental", "Music Composition", "Time Signatures", "Key Changes", "Trumpet", "Podcast", "Episode", "February 2023", "Slack Discussion"]
 ---
 ## 531~ ̶1̶ ̶~17☽

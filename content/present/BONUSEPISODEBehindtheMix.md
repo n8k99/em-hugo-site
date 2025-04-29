@@ -1,6 +1,7 @@
 ---
 title: "BONUS EPISODE: Behind the Mix"
 date: 2024-03-26
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶3̶ ̶~12♃

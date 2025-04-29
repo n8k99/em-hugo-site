@@ -1,6 +1,7 @@
 ---
 title: "Episode 96:  Through the Veil of Discovery"
 date: 2024-03-08
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶2̶ ̶~22☉

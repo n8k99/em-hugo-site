@@ -1,6 +1,7 @@
 ---
 title: "Episode 117: Scraps of Thought"
 date: 2024-08-16
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶8̶ ̶~15☉

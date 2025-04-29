@@ -1,6 +1,7 @@
 ---
 title: "Episode 138: The Completely Perfect Sound of Asinine Nonsense"
 date: 2025-01-16
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶3̶ ̶~28♄

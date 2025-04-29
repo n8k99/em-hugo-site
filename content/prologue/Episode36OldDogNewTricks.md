@@ -1,6 +1,7 @@
 ---
 title: "Episode 36  Old Dog, New Tricks"
 date: 2022-10-14
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶0̶ ̶~18♂

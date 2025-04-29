@@ -2,6 +2,7 @@
 title: "Episode 47: Illness"
 date: 2023-01-13
 category: "Present"
+Lifestage: 🌱 Seed
 tags: ["Episode", "Illness", "January 2023", "n8k99", "Sarah Lin", "Kathryn Lyonne", "L.R. Morgenstern", "Sylvia Inkweaver", "Abstract Soundscape", "Conceptual Layers", "User Feedback", "Creative Brainstorming", "Audio Production" , "Podcast"]
 ---
 ## 530~ ̶1̶3̶ ̶~25♂

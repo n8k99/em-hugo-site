@@ -1,6 +1,7 @@
 ---
 title: "Episode 112 - Engage"
 date: 2024-07-12
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶7̶ ̶~8☉

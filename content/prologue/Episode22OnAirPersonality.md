@@ -1,6 +1,7 @@
 ---
 title: "Episode 22: On-Air Personality"
 date: 2022-07-01
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶6̶ ̶~25♂

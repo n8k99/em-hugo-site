@@ -1,6 +1,7 @@
 ---
 title: "Episode 140: and things got away"
 date: 2025-02-03
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶1̶ ̶~18♂

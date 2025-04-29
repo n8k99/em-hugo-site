@@ -1,6 +1,7 @@
 ---
 title: "Episode 95 - Tides of Turmoil"
 date: 2024-03-01
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶2̶ ̶~15☉

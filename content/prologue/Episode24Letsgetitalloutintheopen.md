@@ -1,6 +1,7 @@
 ---
 title: "Episode 24: Let's get it all out in the open"
 date: 2022-07-15
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ##  530~ ̶7̶ ̶~11♂

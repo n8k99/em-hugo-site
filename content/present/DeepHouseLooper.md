@@ -1,6 +1,7 @@
 ---
 title: "Deep House Looper"
 date: 2024-10-10
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶0̶ ̶~14♄

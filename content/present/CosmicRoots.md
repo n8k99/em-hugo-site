@@ -1,6 +1,7 @@
 ---
 title: "Cosmic Roots"
 date: 2024-04-09
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶3̶ ̶~26♃

@@ -1,3 +1,6 @@
+Lifestage: 🌱 Seed
+---
+---
 title: "Nathan Eckenrode"
 layout: "single" # Change from "home" to "single" (or default)
 type: "page"     # Change from "section" to "page"

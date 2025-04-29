@@ -1,6 +1,7 @@
 ---
 title: "Episode 32: Generic Dubstep and its Derivatives"
 date: 2022-09-16
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~18♂

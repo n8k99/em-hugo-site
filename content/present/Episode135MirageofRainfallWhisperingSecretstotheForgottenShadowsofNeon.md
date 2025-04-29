@@ -1,6 +1,7 @@
 ---
 title: "Episode 135: Mirage of Rainfall Whispering Secrets to the Forgotten Shadows of Neon"
 date: 2024-12-26
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶3̶ ̶~7♄

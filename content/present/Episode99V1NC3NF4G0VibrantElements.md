@@ -1,6 +1,7 @@
 ---
 title: "Episode 99 - V1NC3N+F4G0 - Vibrant Elements"
 date: 2024-03-29
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶3̶ ̶~15☉

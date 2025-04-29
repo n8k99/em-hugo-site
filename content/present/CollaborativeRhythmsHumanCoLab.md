@@ -1,6 +1,7 @@
 ---
 title: "Collaborative Rhythms - Human Co+Lab"
 date: 2024-02-14
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶ ̶~27♀

@@ -5,8 +5,12 @@ type: "section"
 cascade:
   _build:
     list: always
+Lifestage: 🌱 Seed
     render: always
 ---
 Exploring future ideas, what could be, and speculative possibilities.
 
-What could happen? We don't even know yet!
+# On the Board
+![OrbisNerdyView](/images/OrbisNerdyView.png)
+* **The 13 Towers of Orbis**: A verbal-storytelling-podcast is heavy in preproduction. This is an idea whose seed was planted over seven years ago and has slowly developed into an entire world. 
+

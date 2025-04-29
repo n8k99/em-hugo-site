@@ -1,6 +1,7 @@
 ---
 title: "Chromatic Depression I Mixed"
 date: 2024-10-24
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶0̶ ̶~28♄

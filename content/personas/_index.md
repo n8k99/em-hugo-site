@@ -1,5 +1,6 @@
 ---
 title: "Personas"
+Lifestage: 🌱 Seed
 layout: "home"
 ---
 In this grand pursuit, a cast of characters emerges—each one clamoring to be seen, heard, and remembered. They exist in the margins of imagination, waiting for their moment to step into the light. Some whisper their stories in hushed tones, while others demand recognition with voices that refuse to be ignored. Each brings a unique presence, a role to play, and a purpose that shapes the unfolding narrative. And now, it is time to give them their due.

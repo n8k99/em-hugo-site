@@ -1,6 +1,7 @@
 ---
 title: "Episode Zero"
 date: 1/21/2022
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶ ̶~4♂

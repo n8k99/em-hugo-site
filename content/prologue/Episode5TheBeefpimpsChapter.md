@@ -1,6 +1,7 @@
 ---
 title: "Episode 5: The Beefpimps Chapter"
 date: 2022-02-25
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶2̶ ̶~11♂

@@ -1,6 +1,7 @@
 ---
 title: "Rhythms and Revelations with CritPirate"
 date: 2024-04-19
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶4̶ ̶~8☉

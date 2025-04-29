@@ -1,6 +1,7 @@
 ---
 title: "Episode 148 – Live Set Sketches + Psytrance Surge"
 date: 3/28/2025
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 <img src="https://artwork.captivate.fm/45cadb22-4da6-4943-93d5-51d06df16960/ss-z8LUjRAnUcPoE93ULM5cO.jpg" alt="Episode Cover Image" width=80%/>

@@ -1,6 +1,7 @@
 ---
 title: "Episode 40: Hurricane Nicole"
 date: 2022-11-11
+Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶1̶ ̶~18♂

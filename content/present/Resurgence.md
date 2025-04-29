@@ -1,6 +1,7 @@
 ---
 title: "Resurgence"
 date: 2024-06-21
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶6̶ ̶~15☉

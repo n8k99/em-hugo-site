@@ -1,6 +1,7 @@
 ---
 title: "Episode 54: Taking on the Tekno"
 date: 2023-03-10
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶2̶ ̶~24☽

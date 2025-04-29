@@ -1,6 +1,7 @@
 ---
 title: "Episode 68: Alice in the Underground Chapter 1"
 date: 2023-06-23
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~17☽

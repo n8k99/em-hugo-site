@@ -1,6 +1,7 @@
 ---
 title: "Sol Riggers"
 date: 2024-09-27
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶0̶ ̶~1☉

@@ -1,6 +1,7 @@
 ---
 title: "Episode 87"
 date: 2024-01-05
+Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶3̶ ̶~17☽
