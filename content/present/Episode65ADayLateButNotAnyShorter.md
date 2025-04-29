@@ -1,7 +1,6 @@
 ---
 title: "Episode 65: A Day Late But Not Any Shorter"
 date: 2023-06-03
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶5̶ ̶~25♂

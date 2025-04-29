@@ -1,7 +1,6 @@
 ---
 title: "Episode 6: A New Leaf"
 date: 2022-03-05
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶2̶ ̶~19☿

@@ -1,7 +1,6 @@
 ---
 title: "Episode 28: Blow My Own Horn"
 date: 2022-08-19
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶8̶ ̶~18♂

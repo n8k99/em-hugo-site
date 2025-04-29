@@ -1,7 +1,6 @@
 ---
 title: "Episode 107: Groove Nexus"
 date: 2024-05-31
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶5̶ ̶~22☉

@@ -1,7 +1,6 @@
 ---
 title: "Episode 57: Overloaded Definitions"
 date: 2023-03-31
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶3̶ ̶~17☽

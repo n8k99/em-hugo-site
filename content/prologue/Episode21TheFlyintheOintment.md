@@ -1,7 +1,6 @@
 ---
 title: "Episode 21: The Fly in the Ointment"
 date: 2022-06-24
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶6̶ ̶~18♂

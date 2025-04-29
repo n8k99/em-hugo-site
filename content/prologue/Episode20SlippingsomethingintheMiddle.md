@@ -1,7 +1,6 @@
 ---
 title: "Episode 20: Slipping something in the Middle"
 date: 2022-06-17
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶6̶ ̶~11♂

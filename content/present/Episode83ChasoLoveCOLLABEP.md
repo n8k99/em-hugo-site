@@ -1,7 +1,6 @@
 ---
 title: "Episode 83: Chaso Love COLLAB EP"
 date: 2023-12-01
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶2̶ ̶~10☽

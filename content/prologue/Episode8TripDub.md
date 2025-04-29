@@ -1,7 +1,6 @@
 ---
 title: "Episode 8: Trip Dub"
 date: 2022-03-18
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~4♂

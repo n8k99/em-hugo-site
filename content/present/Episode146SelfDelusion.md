@@ -1,7 +1,6 @@
 ---
 title: "Episode 146 - Self Delusion"
 date: 2025-03-14
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶3̶ ̶~1♄

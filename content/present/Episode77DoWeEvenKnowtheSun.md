@@ -1,7 +1,6 @@
 ---
 title: "Episode 77: Do We Even Know the Sun?"
 date: 2023-08-25
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶8̶ ̶~24☽

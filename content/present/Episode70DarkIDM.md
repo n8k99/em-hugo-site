@@ -1,7 +1,6 @@
 ---
 title: "Episode 70: Dark IDM"
 date: 2023-07-07
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶7̶ ̶~3☽

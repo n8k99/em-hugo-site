@@ -1,7 +1,6 @@
 ---
 title: "Episode 46: 4th Wave Demo Tape"
 date: 1/6/2023
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 530~ ̶1̶3̶ ̶~18♂

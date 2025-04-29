@@ -1,7 +1,6 @@
 ---
 title: "Episode 89: A New Year's Sonic Odyssey 🎵"
 date: 2024-01-19
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532 ⛢

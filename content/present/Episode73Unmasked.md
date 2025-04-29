@@ -1,7 +1,6 @@
 ---
 title: "Episode 73: Unmasked"
 date: 2023-07-28
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶7̶ ̶~24☽

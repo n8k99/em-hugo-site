@@ -2,7 +2,6 @@
 title: "Episode 52: Paradise"
 date: 2023-02-17
 category: "Present"
-Lifestage: 🌱 Seed
 tags: ["Episode", "Paradise", "Trance", "Drum n Bass", "Music Production", "Podcast", "February 2023", "Senior Showcase", "Backstage", "Creative Process", "Flow States", "Rhythmic Alignment", "Organic Progression"]
 ---
 ## 531~ ̶2̶ ̶~3☽

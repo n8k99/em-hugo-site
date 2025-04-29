@@ -1,7 +1,6 @@
 ---
 title: "Symphony in C-Minor"
 date: 2024-10-31
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶1̶ ̶~7♄

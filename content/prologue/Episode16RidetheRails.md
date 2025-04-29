@@ -1,7 +1,6 @@
 ---
 title: "Episode 16 - Ride the Rails"
 date: 2022-05-13
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶5̶ ̶~4♂

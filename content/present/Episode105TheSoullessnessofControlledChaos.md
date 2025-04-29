@@ -1,7 +1,6 @@
 ---
 title: "Episode 105: The Soullessness of Controlled Chaos"
 date: 2024-05-18
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶5̶ ̶~9☽

@@ -1,7 +1,6 @@
 ---
 title: "Episode 23: Casually Jamming Live"
 date: 2022-07-08
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶7̶ ̶~4♂

@@ -1,7 +1,6 @@
 ---
 title: "Episode 63: New Album"
 date: 2023-05-12
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶5̶ ̶~3☽

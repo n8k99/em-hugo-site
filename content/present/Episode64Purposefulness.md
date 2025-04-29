@@ -1,7 +1,6 @@
 ---
 title: "Episode 64: Purposefulness"
 date: 2023-05-26
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶5̶ ̶~17☽

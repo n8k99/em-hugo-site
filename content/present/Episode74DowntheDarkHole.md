@@ -1,7 +1,6 @@
 ---
 title: "Episode 74: Down the Dark Hole"
 date: 2023-08-04
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶8̶ ̶~3☽

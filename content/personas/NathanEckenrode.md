@@ -1,4 +1,3 @@
-Lifestage: 🌱 Seed
 ---
 ---
 title: "Nathan Eckenrode"

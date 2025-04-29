@@ -1,7 +1,6 @@
 ---
 title: "Episode 100: The Best of N8K99"
 date: 2024-04-02
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶3̶ ̶~19♃

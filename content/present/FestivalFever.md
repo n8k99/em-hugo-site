@@ -1,7 +1,6 @@
 ---
 title: "Festival Fever"
 date: 2024-12-05
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶2̶ ̶~14♄

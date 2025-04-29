@@ -1,7 +1,6 @@
 ---
 title: "Episode 81: Exciting Studio Update"
 date: 2023-11-17
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶1̶ ̶~24☽

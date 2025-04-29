@@ -1,7 +1,6 @@
 ---
 title: "Straight Up"
 date: 2024-11-21
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶1̶ ̶~28♄

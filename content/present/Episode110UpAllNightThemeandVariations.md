@@ -1,7 +1,6 @@
 ---
 title: "Episode 110: Up All Night (Theme and Variations)"
 date: 2024-06-28
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶6̶ ̶~22☉

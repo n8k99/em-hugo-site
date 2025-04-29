@@ -1,7 +1,6 @@
 ---
 title: "Episode 56: Latin Two Step House"
 date: 2023-03-24
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶3̶ ̶~10☽

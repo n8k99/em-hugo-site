@@ -1,7 +1,6 @@
 ---
 title: "The Hope of a New System"
 date: 2024-06-07
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶6̶ ̶~1☉

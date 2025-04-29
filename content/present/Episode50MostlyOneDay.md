@@ -2,7 +2,6 @@
 title: "Episode 50: Mostly One Day"
 date: 2023-01-27
 category: "Present"
-Lifestage: 🌱 Seed
 tags: ["Episode", "Mostly One Day", "Nathan Eckenrode", "Sarah Lin", "Podcast", "Band Rehearsal", "Creative Process", "January 2023", "Audio"]
 ---
 ## 531~ ̶1̶ ̶~10☽

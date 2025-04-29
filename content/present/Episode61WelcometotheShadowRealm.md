@@ -1,7 +1,6 @@
 ---
 title: "Episode 61: Welcome to the Shadow Realm"
 date: 2023-04-28
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶4̶ ̶~17☽

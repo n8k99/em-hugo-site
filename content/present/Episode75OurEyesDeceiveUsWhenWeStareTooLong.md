@@ -1,7 +1,6 @@
 ---
 title: "Episode 75: Our Eyes Deceive Us When We Stare Too Long"
 date: 2023-08-11
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶8̶ ̶~10☽

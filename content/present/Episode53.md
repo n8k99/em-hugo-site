@@ -2,7 +2,6 @@
 title: "Episode 53: Peace"
 date: 2023-02-24
 category: "Present"
-Lifestage: 🌱 Seed
 tags: ["Episode", "Peace", "February 2023", "Spiritual Journey", "Ambient Soundscapes", "Meditation", "Inner Peace", "Binaural Beats", "Nature Sounds", "Crystal Singing Bowls", "Instrumental", "Music Production", "Team Collaboration", "Quality Check"]
 ---
 ## 531~ ̶2̶ ̶~10☽

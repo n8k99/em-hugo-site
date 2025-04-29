@@ -1,7 +1,6 @@
 ---
 title: "Crazy Psytrance"
 date: 4/4/2025
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Episode Cover Image" width=80%/>

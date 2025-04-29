@@ -5,7 +5,6 @@ type: "section"
 cascade:
   _build:
     list: always
-Lifestage: 🌱 Seed
     render: always
 ---
 ## **Experimental Digital Humanities Project: AI-Assisted Personal Archiving & Analysis**  

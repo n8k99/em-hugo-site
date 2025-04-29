@@ -1,7 +1,6 @@
 ---
 title: "Episode 15: The Last Steps"
 date: 2022-05-07
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶4̶ ̶~26☿

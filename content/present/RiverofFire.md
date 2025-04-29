@@ -1,7 +1,6 @@
 ---
 title: "River of Fire"
 date: 2024-10-05
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶0̶ ̶~9☽

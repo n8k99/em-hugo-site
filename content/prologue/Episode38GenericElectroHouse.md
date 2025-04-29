@@ -1,7 +1,6 @@
 ---
 title: "Episode 38: Generic Electro House"
 date: 2022-10-28
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶1̶ ̶~4♂

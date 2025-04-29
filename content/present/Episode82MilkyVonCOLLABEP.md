@@ -1,7 +1,6 @@
 ---
 title: "Episode 82: Milky Von COLLAB EP"
 date: 2023-11-24
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶2̶ ̶~3☽

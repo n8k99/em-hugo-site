@@ -1,7 +1,6 @@
 ---
 title: "Episode 94"
 date: 2024-02-23
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶2̶ ̶~8☉

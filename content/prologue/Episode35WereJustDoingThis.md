@@ -1,7 +1,6 @@
 ---
 title: "Episode 35: We're Just Doing This"
 date: 2022-10-07
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶0̶ ̶~11♂

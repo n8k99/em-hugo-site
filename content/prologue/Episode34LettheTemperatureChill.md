@@ -1,7 +1,6 @@
 ---
 title: "Episode 34: Let the Temperature Chill"
 date: 2022-09-30
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶0̶ ̶~4♂

@@ -1,7 +1,6 @@
 ---
 title: "Episode 103 - No Title"
 date: 2024-05-03
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶4̶ ̶~22☉

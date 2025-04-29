@@ -1,7 +1,6 @@
 ---
 title: "Episode 44: And Away We Go!"
 date: 2022-12-23
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶3̶ ̶~4♂

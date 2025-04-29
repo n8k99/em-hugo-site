@@ -1,7 +1,6 @@
 ---
 title: "Yes, I'm talented, but I'm broke$"
 date: 2024-09-06
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶9̶ ̶~8☉

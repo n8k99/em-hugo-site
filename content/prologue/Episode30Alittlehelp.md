@@ -1,7 +1,6 @@
 ---
 title: "Episode 30: A little help"
 date: 2022-09-02
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶9̶ ̶~4♂

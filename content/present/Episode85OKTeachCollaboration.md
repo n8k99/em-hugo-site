@@ -1,7 +1,6 @@
 ---
 title: "Episode 85: OKTeach Collaboration"
 date: 2023-12-15
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶1̶2̶ ̶~24☽

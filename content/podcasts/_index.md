@@ -5,7 +5,6 @@ type: "section"
 cascade:
   _build:
     list: always
-Lifestage: 🌱 Seed
     render: always
 ---
 <img src="https://artwork.captivate.fm/6b7a7527-b6e6-4512-b660-fcc0b7e877a7/-opX7tpLAXRuMDvjmGlF_C_Y.jpg" alt="Living Room Music by N8K99" width="150" style="float: left; margin-right: 15px;" />

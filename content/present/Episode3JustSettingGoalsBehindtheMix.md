@@ -1,7 +1,6 @@
 ---
 title: "Episode 3: Just Setting Goals - Behind the Mix"
 date: 2024-06-02
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶5̶ ̶~24♂

@@ -1,7 +1,6 @@
 ---
 title: "Episode 142: Lore's Ember"
 date: 2025-02-15
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶2̶ ̶~2☉

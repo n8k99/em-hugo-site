@@ -1,7 +1,6 @@
 ---
 title: "Episode 29: Let's Get Weird"
 date: 2022-08-27
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶8̶ ̶~26☿

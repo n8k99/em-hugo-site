@@ -1,7 +1,6 @@
 ---
 title: "Episode 145: Vibes & Voices"
 date: 2025-03-07
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶2̶ ̶~22♄

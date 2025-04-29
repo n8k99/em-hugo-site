@@ -1,7 +1,6 @@
 ---
 title: "Episode 147 - Slow Burn the Dancefloor"
 date: 2025-03-21
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶3̶ ̶~8♄

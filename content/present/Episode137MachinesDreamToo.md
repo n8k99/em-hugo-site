@@ -1,7 +1,6 @@
 ---
 title: "Episode 137: Machines Dream Too"
 date: 2025-01-09
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶3̶ ̶~21♄

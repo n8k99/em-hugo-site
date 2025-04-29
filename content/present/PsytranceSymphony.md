@@ -1,7 +1,6 @@
 ---
 title: "Psytrance Symphony"
 date: 2024-08-23
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶8̶ ̶~22☉

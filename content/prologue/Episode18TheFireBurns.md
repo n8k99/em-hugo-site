@@ -1,7 +1,6 @@
 ---
 title: "Episode 18: The Fire Burns"
 date: 2022-06-03
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶5̶ ̶~25♂

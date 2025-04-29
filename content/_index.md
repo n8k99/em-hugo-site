@@ -1,7 +1,6 @@
 ---
 title: "A New Era for Our Creative Hive: 530 ̶1̶3̶ ̶13 ♃"
 layout: "home"
-Lifestage: 🌱 Seed
 date: "2023-01-01"
 ---
 1 January, 2023

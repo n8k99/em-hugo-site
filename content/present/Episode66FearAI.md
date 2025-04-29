@@ -1,7 +1,6 @@
 ---
 title: "Episode 66: Fear AI"
 date: 2023-06-09
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶6̶ ̶~3☽

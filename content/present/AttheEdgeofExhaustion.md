@@ -1,7 +1,6 @@
 ---
 title: "At the Edge of Exhaustion"
 date: 2024-10-17
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶0̶ ̶~21♄

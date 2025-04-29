@@ -1,7 +1,6 @@
 ---
 title: "Episode 2: Just a Step"
 date: 2022-02-04
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶ ̶~18 ♂

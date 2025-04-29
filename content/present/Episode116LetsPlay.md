@@ -1,7 +1,6 @@
 ---
 title: "Episode 116 - Let's Play"
 date: 2024-08-02
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶8̶ ̶~1☉

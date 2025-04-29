@@ -1,7 +1,6 @@
 ---
 title: "Episode 106: Sonic Sculptures"
 date: 2024-05-24
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶5̶ ̶~15☉

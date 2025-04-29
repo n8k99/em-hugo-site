@@ -1,7 +1,6 @@
 ---
 title: "Four Elements"
 date: 2024-07-26
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶7̶ ̶~22☉

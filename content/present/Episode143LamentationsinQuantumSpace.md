@@ -1,7 +1,6 @@
 ---
 title: "Episode 143 - Lamentations in Quantum Space"
 date: 2025-02-20
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶2̶ ̶~7♀

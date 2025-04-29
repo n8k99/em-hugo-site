@@ -1,7 +1,6 @@
 ---
 title: "Episode 80: Maladjusted"
 date: 2023-09-15
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶9̶ ̶~17☽

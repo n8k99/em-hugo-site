@@ -5,7 +5,6 @@ type: "section"
 cascade:
   _build:
     list: always
-Lifestage: 🌱 Seed
     render: always
 ---
 ## About Me

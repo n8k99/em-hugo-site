@@ -1,7 +1,6 @@
 ---
 title: "Episode 42: A New Direction"
 date: 2022-12-09
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶2̶ ̶~18♂

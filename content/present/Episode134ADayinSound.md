@@ -1,7 +1,6 @@
 ---
 title: "Episode 134: A Day in Sound"
 date: 2024-12-19
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶2̶ ̶~28♄

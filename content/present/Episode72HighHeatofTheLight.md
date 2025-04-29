@@ -1,7 +1,6 @@
 ---
 title: "Episode 72: High Heat of The Light"
 date: 2023-07-21
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 531~ ̶7̶ ̶~17☽

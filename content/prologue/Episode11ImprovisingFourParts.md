@@ -1,7 +1,6 @@
 ---
 title: "Episode 11: Improvising Four Parts"
 date: 2022-04-08
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶3̶ ̶~25♂

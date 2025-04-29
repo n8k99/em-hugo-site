@@ -1,7 +1,6 @@
 ---
 title: "Episode 104 - 'The Creation of The Cosmos Volume I'"
 date: 2024-05-10
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶5̶ ̶~1☉

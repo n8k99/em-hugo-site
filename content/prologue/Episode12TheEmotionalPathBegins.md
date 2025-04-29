@@ -1,7 +1,6 @@
 ---
 title: "Episode 12: The Emotional Path Begins"
 date: 2022-04-14
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶4̶ ̶~4♂

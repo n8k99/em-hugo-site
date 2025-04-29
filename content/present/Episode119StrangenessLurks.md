@@ -1,7 +1,6 @@
 ---
 title: "Episode 119 - Strangeness Lurks"
 date: 2024-08-30
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶9̶ ̶~1☉

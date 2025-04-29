@@ -1,7 +1,6 @@
 ---
 title: "Episode 91: Collaboration Curve"
 date: 2024-02-02
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶ ̶~15☉

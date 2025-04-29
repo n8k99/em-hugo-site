@@ -2,7 +2,6 @@
 title: "Episode 49: Well, So, here's this"
 date: 2023-01-20
 category: "Present"
-Lifestage: 🌱 Seed
 tags: ["Episode", "Music", "Branding", "Authenticity", "Creative Process", "Strategy", "Metrics", "Case Study", "January 2023"]
 ---
 ## 531~ ̶1̶ ̶~3☽

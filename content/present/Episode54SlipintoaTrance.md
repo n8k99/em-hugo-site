@@ -2,7 +2,6 @@
 title: "Episode 54: Slip into a Trance"
 date: 2023-03-03
 category: "Present"
-Lifestage: 🌱 Seed
 tags: ["Trance", "Improv", "Episode", "March 2023", "Abstract Soundscapes", "Hidden Meanings", "Interpretive Layers"]
 ---
 ## 531~ ̶2̶ ̶~17☽

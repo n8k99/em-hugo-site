@@ -1,7 +1,6 @@
 ---
 title: "Episode 37: Generic Chillwave"
 date: 2022-10-21
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶0̶ ̶~25♂

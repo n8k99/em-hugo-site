@@ -1,7 +1,6 @@
 ---
 title: "Episode 139: Journeys in Sound"
 date: 2025-01-24
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶1̶ ̶~8♄

@@ -1,7 +1,6 @@
 ---
 title: "Episode 141: The Symphony of Worlds and War"
 date: 2025-02-06
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 533~ ̶1̶ ̶~21♀

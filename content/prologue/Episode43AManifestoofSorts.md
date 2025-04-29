@@ -1,7 +1,6 @@
 ---
 title: "Episode 43: A Manifesto of Sorts"
 date: 2022-12-16
-Lifestage: 🌱 Seed
 category: "Prologue"
 ---
 ## 530~ ̶1̶2̶ ̶~25♂

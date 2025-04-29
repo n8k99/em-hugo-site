@@ -1,7 +1,6 @@
 ---
 title: "Bleeps, Bloops, Blips"
 date: 2024-11-14
-Lifestage: 🌱 Seed
 category: "Present"
 ---
 ## 532~ ̶1̶1̶ ̶~21♄
