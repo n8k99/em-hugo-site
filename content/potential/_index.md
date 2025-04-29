@@ -1,6 +1,6 @@
 ---
 title: "Potential"
-layout: "list"
+layout: "home"
 type: "section"
 cascade:
   _build:

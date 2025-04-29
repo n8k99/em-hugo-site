@@ -25,6 +25,14 @@
         <h1>{{ .Title }}</h1>
 <!----        <p><i>{{ .Date.Format "January 2, 2006" }}</i></p> --->
         <div>{{ .Content }}</div>
+        <ul>
+            {{ range .Pages.ByDate }}
+            
+              <h1>{{ .Title }}</h1>
+                <div>{{ .Content }}</div> <!-- Displays the full content of each page -->
+            
+            {{ end }}
+        </ul>
     </main>
 </body>
 </html>
