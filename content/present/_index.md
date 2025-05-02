@@ -9,12 +9,23 @@ cascade:
     render: always
 ---
 # Current events, updates, and ongoing EM work. 
+<img src="/images/djn8ki=99.jpeg" alt="DJ N8K99" style="border-radius: 12px; width: 100%;">
 
-Recent r/outside appearances:
-  - Mushroom Fest @ Shantytown Pub 4/27/02025 
-  - Beats & Brews @ Shantytown Pub 4/20/02025 
+
+## Upcoming
+
+  - Beats & Brews Roadtrip @ Eclipse 05/02/02025
+<img src="/images/BBRoadTrip.jpeg" alt="DJ N8K99" style="border-radius: 12px; width: 100%">
+
+## Recent r/outside appearances:
+  - Mushroom Fest @ Shantytown Pub 04/27/02025 
+<img src="/images/MRFest.jpeg" alt="DJ N8K99" style="border-radius: 12px; width: 100%">
+
+  - Beats & Brews @ Shantytown Pub 04/20/02025 
+<img src="/images/bb420.jpeg" alt="DJ N8K99" style="border-radius: 12px; width: 100%">
+
   
-## Nerding out with all the nerdy things in the nerdhouse almost non-stop. 
+# Nerding out with all the nerdy things in the nerdhouse almost non-stop. 
 ## 533 ̶4̶ ̶19 ☿
 In the heart of a bustling city, where skyscrapers pierced the heavens and the hum of life never ceased, there stood a peculiar abode known affectionately by its inhabitants as the "Nerdhouse." This was no ordinary dwelling; it was a sanctuary for the intellectually curious, a haven for those whose minds thrived on the esoteric and the arcane. The Nerdhouse was a sprawling Victorian mansion, its exterior a tapestry of ivy-clad brickwork and ornate gables, with windows that glowed warmly like the eyes of a wise old sage.
 
